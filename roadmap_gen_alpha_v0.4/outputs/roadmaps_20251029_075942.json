@@ -1,0 +1,1556 @@
+{
+  "input": {
+    "answers": [
+      {
+        "questionId": 1,
+        "type": "C"
+      },
+      {
+        "questionId": 2,
+        "type": "B"
+      },
+      {
+        "questionId": 3,
+        "type": "C"
+      },
+      {
+        "questionId": 4,
+        "type": "C"
+      },
+      {
+        "questionId": 5,
+        "type": "C"
+      },
+      {
+        "questionId": 6,
+        "type": "A"
+      },
+      {
+        "questionId": 7,
+        "type": "C"
+      },
+      {
+        "questionId": 8,
+        "type": "B"
+      },
+      {
+        "questionId": 9,
+        "type": "C"
+      },
+      {
+        "questionId": 10,
+        "type": "A"
+      }
+    ],
+    "summary": "I like accounting"
+  },
+  "derived_skills": [
+    "mobile ui design",
+    "react",
+    "auditing",
+    "app security"
+  ],
+  "chosen_career": "Mobile Developer",
+  "match_score": 0.37142857142857144,
+  "roadmaps": [
+    {
+      "path_title": "Mobile Developer",
+      "focus": "Depth",
+      "confidence_score": 0.8,
+      "steps": [
+        {
+          "title": "Foundations",
+          "objective": "Build essential groundwork for your career",
+          "duration_months": 1,
+          "prerequisites": [],
+          "milestones": [
+            "Complete all foundation modules",
+            "Set up workspace",
+            "Create learning schedule"
+          ],
+          "resources": [
+            "VS Code",
+            "Git",
+            "Notion/Trello",
+            "Calendar app"
+          ],
+          "tasks": [
+            "Set up your learning workspace",
+            "Create a study schedule",
+            "Install all necessary tools",
+            "Join relevant online communities",
+            "Set up project tracking system"
+          ],
+          "children": [
+            {
+              "title": "Computer Basics",
+              "objective": "Master essential computer skills for your career",
+              "duration_months": 1,
+              "prerequisites": [],
+              "milestones": [
+                "Complete command-line tutorial",
+                "Set up development environment",
+                "Create first project folder"
+              ],
+              "resources": [
+                "Codecademy CLI Course",
+                "VS Code Documentation",
+                "GitHub Desktop"
+              ],
+              "tasks": [
+                "Install VS Code and configure extensions",
+                "Learn basic terminal commands (cd, ls, mkdir, touch)",
+                "Create a project folder structure",
+                "Set up version control with Git",
+                "Complete Codecademy CLI course"
+              ],
+              "children": []
+            },
+            {
+              "title": "Math & Logic Basics",
+              "objective": "Build analytical thinking foundation",
+              "duration_months": 1,
+              "prerequisites": [],
+              "milestones": [
+                "Complete Khan Academy modules",
+                "Solve 20 practice problems",
+                "Understand basic statistics"
+              ],
+              "resources": [
+                "Khan Academy",
+                "Coursera Logic Course",
+                "Brilliant.org"
+              ],
+              "tasks": [
+                "Complete Khan Academy Algebra basics",
+                "Practice logical reasoning problems",
+                "Learn basic statistics concepts",
+                "Complete 20 problem-solving exercises",
+                "Take a logic fundamentals course"
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Core Skills Development",
+          "objective": "Master essential skills for Mobile Developer",
+          "duration_months": 5,
+          "prerequisites": [
+            "mobile ui design",
+            "app security"
+          ],
+          "milestones": [
+            "Complete all core skill modules",
+            "Build skill demonstration projects",
+            "Pass skill assessments"
+          ],
+          "resources": [
+            "freeCodeCamp",
+            "Coursera",
+            "Udemy",
+            "LinkedIn Learning"
+          ],
+          "tasks": [
+            "Create a skills tracking spreadsheet",
+            "Set up practice projects for each skill",
+            "Join skill-specific communities",
+            "Find a mentor or study group",
+            "Schedule regular skill assessments"
+          ],
+          "children": [
+            {
+              "title": "Swift Mastery",
+              "objective": "Develop proficiency in swift for Mobile Developer",
+              "duration_months": 2,
+              "prerequisites": [
+                "mobile ui design",
+                "app security"
+              ],
+              "milestones": [
+                "Complete swift course",
+                "Build swift project",
+                "Pass swift assessment"
+              ],
+              "resources": [
+                "Swift Course",
+                "Swift Documentation",
+                "Swift Practice Platform"
+              ],
+              "tasks": [
+                "Complete swift fundamentals course",
+                "Practice swift with hands-on exercises",
+                "Build a small swift project"
+              ],
+              "children": []
+            },
+            {
+              "title": "Kotlin Mastery",
+              "objective": "Develop proficiency in kotlin for Mobile Developer",
+              "duration_months": 2,
+              "prerequisites": [],
+              "milestones": [
+                "Complete kotlin course",
+                "Build kotlin project",
+                "Pass kotlin assessment"
+              ],
+              "resources": [
+                "Kotlin Course",
+                "Kotlin Documentation",
+                "Kotlin Practice Platform"
+              ],
+              "tasks": [
+                "Complete kotlin fundamentals course",
+                "Practice kotlin with hands-on exercises",
+                "Build a small kotlin project"
+              ],
+              "children": []
+            },
+            {
+              "title": "React Native Mastery",
+              "objective": "Develop proficiency in react native for Mobile Developer",
+              "duration_months": 2,
+              "prerequisites": [],
+              "milestones": [
+                "Complete react native course",
+                "Build react native project",
+                "Pass react native assessment"
+              ],
+              "resources": [
+                "React Native Course",
+                "React Native Documentation",
+                "React Native Practice Platform"
+              ],
+              "tasks": [
+                "Complete react native fundamentals course",
+                "Practice react native with hands-on exercises",
+                "Build a small react native project"
+              ],
+              "children": []
+            },
+            {
+              "title": "Flutter Mastery",
+              "objective": "Develop proficiency in flutter for Mobile Developer",
+              "duration_months": 2,
+              "prerequisites": [],
+              "milestones": [
+                "Complete flutter course",
+                "Build flutter project",
+                "Pass flutter assessment"
+              ],
+              "resources": [
+                "Flutter Course",
+                "Flutter Documentation",
+                "Flutter Practice Platform"
+              ],
+              "tasks": [
+                "Complete flutter fundamentals course",
+                "Practice flutter with hands-on exercises",
+                "Build a small flutter project"
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Portfolio Development",
+          "objective": "Create impressive projects to showcase your skills",
+          "duration_months": 2,
+          "prerequisites": [
+            "mobile ui design",
+            "app security"
+          ],
+          "milestones": [
+            "Complete 2 portfolio projects",
+            "Deploy projects online",
+            "Create project presentations"
+          ],
+          "resources": [
+            "GitHub",
+            "Netlify",
+            "Vercel",
+            "Figma",
+            "Canva"
+          ],
+          "tasks": [
+            "Research industry-standard project types",
+            "Create project portfolio website",
+            "Write detailed project case studies",
+            "Prepare project demonstrations",
+            "Get feedback from professionals"
+          ],
+          "children": [
+            {
+              "title": "Portfolio Project 1",
+              "objective": "Build a showcase project demonstrating core skills",
+              "duration_months": 2,
+              "prerequisites": [
+                "mobile ui design",
+                "app security",
+                "swift",
+                "kotlin"
+              ],
+              "milestones": [
+                "Complete project design",
+                "Implement core features",
+                "Deploy to GitHub Pages"
+              ],
+              "resources": [
+                "GitHub",
+                "Netlify/Vercel",
+                "Figma",
+                "Project documentation"
+              ],
+              "tasks": [
+                "Research similar projects for inspiration",
+                "Create project wireframes and design",
+                "Set up project repository on GitHub",
+                "Implement core functionality",
+                "Write comprehensive README",
+                "Deploy project and test functionality",
+                "Create project presentation"
+              ],
+              "children": []
+            },
+            {
+              "title": "Portfolio Project 2",
+              "objective": "Build an advanced project showing specialization",
+              "duration_months": 2,
+              "prerequisites": [
+                "mobile ui design",
+                "app security",
+                "swift",
+                "kotlin",
+                "react native"
+              ],
+              "milestones": [
+                "Complete advanced features",
+                "Add testing",
+                "Optimize performance"
+              ],
+              "resources": [
+                "GitHub",
+                "Testing frameworks",
+                "Performance tools",
+                "Documentation"
+              ],
+              "tasks": [
+                "Choose a more complex project idea",
+                "Plan project architecture",
+                "Implement advanced features",
+                "Add unit and integration tests",
+                "Optimize for performance",
+                "Create detailed documentation",
+                "Prepare project demo"
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Specialization Development",
+          "objective": "Develop expertise in specific areas of your field",
+          "duration_months": 2,
+          "prerequisites": [],
+          "milestones": [
+            "Choose specialization tracks",
+            "Complete specialization projects",
+            "Build expertise portfolio"
+          ],
+          "resources": [
+            "Industry courses",
+            "Professional certifications",
+            "Technical blogs",
+            "Expert communities"
+          ],
+          "tasks": [
+            "Research industry specialization trends",
+            "Choose 2 complementary specializations",
+            "Create specialization learning plan",
+            "Build specialization projects",
+            "Document specialization journey",
+            "Connect with specialization experts"
+          ],
+          "children": [
+            {
+              "title": "Specialization Track A",
+              "objective": "Deep dive into primary specialization area",
+              "duration_months": 2,
+              "prerequisites": [
+                "mobile ui design",
+                "app security",
+                "swift",
+                "kotlin"
+              ],
+              "milestones": [
+                "Complete specialization course",
+                "Build specialization project",
+                "Write technical blog post"
+              ],
+              "resources": [
+                "Specialized courses",
+                "Industry blogs",
+                "Technical documentation",
+                "Community forums"
+              ],
+              "tasks": [
+                "Research specialization requirements",
+                "Complete advanced specialization course",
+                "Build project demonstrating specialization",
+                "Write technical blog post about specialization",
+                "Join specialization-specific communities",
+                "Attend specialization workshops/webinars"
+              ],
+              "children": []
+            },
+            {
+              "title": "Specialization Track B",
+              "objective": "Explore complementary specialization",
+              "duration_months": 2,
+              "prerequisites": [
+                "mobile ui design",
+                "app security",
+                "swift",
+                "kotlin"
+              ],
+              "milestones": [
+                "Complete secondary specialization",
+                "Create comparison analysis",
+                "Build hybrid project"
+              ],
+              "resources": [
+                "Secondary courses",
+                "Industry reports",
+                "Comparison tools",
+                "Documentation"
+              ],
+              "tasks": [
+                "Research complementary specializations",
+                "Complete secondary specialization course",
+                "Create specialization comparison analysis",
+                "Build project combining both specializations",
+                "Document learning journey",
+                "Share insights with community"
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Job Search & Application",
+          "objective": "Land your first role in the field",
+          "duration_months": 3,
+          "prerequisites": [],
+          "milestones": [
+            "Complete professional branding",
+            "Pass technical interviews",
+            "Receive job offers"
+          ],
+          "resources": [
+            "LinkedIn",
+            "Job boards",
+            "Interview platforms",
+            "Networking tools",
+            "Application tracking"
+          ],
+          "tasks": [
+            "Develop comprehensive job search strategy",
+            "Create application tracking system",
+            "Build professional network",
+            "Practice interview skills regularly",
+            "Customize applications for each opportunity",
+            "Follow up on all applications",
+            "Negotiate offers professionally"
+          ],
+          "children": [
+            {
+              "title": "Professional Branding",
+              "objective": "Create compelling professional presence",
+              "duration_months": 1,
+              "prerequisites": [],
+              "milestones": [
+                "Complete LinkedIn profile",
+                "Create professional resume",
+                "Build portfolio website"
+              ],
+              "resources": [
+                "LinkedIn",
+                "Canva",
+                "GitHub Pages",
+                "Resume builders",
+                "Portfolio templates"
+              ],
+              "tasks": [
+                "Optimize LinkedIn profile with keywords",
+                "Create professional headshot",
+                "Write compelling professional summary",
+                "Build comprehensive portfolio website",
+                "Create resume tailored to target roles",
+                "Develop personal brand statement",
+                "Set up professional email signature"
+              ],
+              "children": []
+            },
+            {
+              "title": "Interview Preparation",
+              "objective": "Master technical and behavioral interviews",
+              "duration_months": 1,
+              "prerequisites": [],
+              "milestones": [
+                "Complete 50 practice questions",
+                "Mock interview sessions",
+                "Prepare STAR stories"
+              ],
+              "resources": [
+                "LeetCode",
+                "Pramp",
+                "InterviewBit",
+                "Glassdoor",
+                "YouTube interview prep"
+              ],
+              "tasks": [
+                "Research common interview questions for role",
+                "Practice technical problems daily",
+                "Prepare STAR method stories",
+                "Schedule mock interviews",
+                "Study company-specific interview processes",
+                "Practice coding on whiteboard",
+                "Prepare questions to ask interviewers"
+              ],
+              "children": []
+            },
+            {
+              "title": "Job Search Strategy",
+              "objective": "Execute systematic job search campaign",
+              "duration_months": 1,
+              "prerequisites": [],
+              "milestones": [
+                "Apply to 50+ positions",
+                "Network with 20+ professionals",
+                "Track applications"
+              ],
+              "resources": [
+                "LinkedIn Jobs",
+                "Indeed",
+                "AngelList",
+                "Company websites",
+                "Networking events"
+              ],
+              "tasks": [
+                "Create job search tracking spreadsheet",
+                "Set up job alerts on multiple platforms",
+                "Research target companies thoroughly",
+                "Customize applications for each role",
+                "Attend networking events and meetups",
+                "Reach out to professionals for informational interviews",
+                "Follow up on applications systematically"
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path_title": "Mobile Developer",
+      "focus": "Fast-Entry",
+      "confidence_score": 0.8,
+      "steps": [
+        {
+          "title": "Foundations",
+          "objective": "Build essential groundwork for your career",
+          "duration_months": 1,
+          "prerequisites": [],
+          "milestones": [
+            "Complete all foundation modules",
+            "Set up workspace",
+            "Create learning schedule"
+          ],
+          "resources": [
+            "VS Code",
+            "Git",
+            "Notion/Trello",
+            "Calendar app"
+          ],
+          "tasks": [
+            "Set up your learning workspace",
+            "Create a study schedule",
+            "Install all necessary tools",
+            "Join relevant online communities",
+            "Set up project tracking system"
+          ],
+          "children": [
+            {
+              "title": "Computer Basics",
+              "objective": "Master essential computer skills for your career",
+              "duration_months": 1,
+              "prerequisites": [],
+              "milestones": [
+                "Complete command-line tutorial",
+                "Set up development environment",
+                "Create first project folder"
+              ],
+              "resources": [
+                "Codecademy CLI Course",
+                "VS Code Documentation",
+                "GitHub Desktop"
+              ],
+              "tasks": [
+                "Install VS Code and configure extensions",
+                "Learn basic terminal commands (cd, ls, mkdir, touch)",
+                "Create a project folder structure",
+                "Set up version control with Git",
+                "Complete Codecademy CLI course"
+              ],
+              "children": []
+            },
+            {
+              "title": "Math & Logic Basics",
+              "objective": "Build analytical thinking foundation",
+              "duration_months": 1,
+              "prerequisites": [],
+              "milestones": [
+                "Complete Khan Academy modules",
+                "Solve 20 practice problems",
+                "Understand basic statistics"
+              ],
+              "resources": [
+                "Khan Academy",
+                "Coursera Logic Course",
+                "Brilliant.org"
+              ],
+              "tasks": [
+                "Complete Khan Academy Algebra basics",
+                "Practice logical reasoning problems",
+                "Learn basic statistics concepts",
+                "Complete 20 problem-solving exercises",
+                "Take a logic fundamentals course"
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Core Skills Development",
+          "objective": "Master essential skills for Mobile Developer",
+          "duration_months": 4,
+          "prerequisites": [
+            "mobile ui design",
+            "app security"
+          ],
+          "milestones": [
+            "Complete all core skill modules",
+            "Build skill demonstration projects",
+            "Pass skill assessments"
+          ],
+          "resources": [
+            "freeCodeCamp",
+            "Coursera",
+            "Udemy",
+            "LinkedIn Learning"
+          ],
+          "tasks": [
+            "Create a skills tracking spreadsheet",
+            "Set up practice projects for each skill",
+            "Join skill-specific communities",
+            "Find a mentor or study group",
+            "Schedule regular skill assessments"
+          ],
+          "children": [
+            {
+              "title": "Swift Mastery",
+              "objective": "Develop proficiency in swift for Mobile Developer",
+              "duration_months": 2,
+              "prerequisites": [
+                "mobile ui design",
+                "app security"
+              ],
+              "milestones": [
+                "Complete swift course",
+                "Build swift project",
+                "Pass swift assessment"
+              ],
+              "resources": [
+                "Swift Course",
+                "Swift Documentation",
+                "Swift Practice Platform"
+              ],
+              "tasks": [
+                "Complete swift fundamentals course",
+                "Practice swift with hands-on exercises",
+                "Build a small swift project"
+              ],
+              "children": []
+            },
+            {
+              "title": "Kotlin Mastery",
+              "objective": "Develop proficiency in kotlin for Mobile Developer",
+              "duration_months": 2,
+              "prerequisites": [],
+              "milestones": [
+                "Complete kotlin course",
+                "Build kotlin project",
+                "Pass kotlin assessment"
+              ],
+              "resources": [
+                "Kotlin Course",
+                "Kotlin Documentation",
+                "Kotlin Practice Platform"
+              ],
+              "tasks": [
+                "Complete kotlin fundamentals course",
+                "Practice kotlin with hands-on exercises",
+                "Build a small kotlin project"
+              ],
+              "children": []
+            },
+            {
+              "title": "React Native Mastery",
+              "objective": "Develop proficiency in react native for Mobile Developer",
+              "duration_months": 2,
+              "prerequisites": [],
+              "milestones": [
+                "Complete react native course",
+                "Build react native project",
+                "Pass react native assessment"
+              ],
+              "resources": [
+                "React Native Course",
+                "React Native Documentation",
+                "React Native Practice Platform"
+              ],
+              "tasks": [
+                "Complete react native fundamentals course",
+                "Practice react native with hands-on exercises",
+                "Build a small react native project"
+              ],
+              "children": []
+            },
+            {
+              "title": "Flutter Mastery",
+              "objective": "Develop proficiency in flutter for Mobile Developer",
+              "duration_months": 2,
+              "prerequisites": [],
+              "milestones": [
+                "Complete flutter course",
+                "Build flutter project",
+                "Pass flutter assessment"
+              ],
+              "resources": [
+                "Flutter Course",
+                "Flutter Documentation",
+                "Flutter Practice Platform"
+              ],
+              "tasks": [
+                "Complete flutter fundamentals course",
+                "Practice flutter with hands-on exercises",
+                "Build a small flutter project"
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Portfolio Development",
+          "objective": "Create impressive projects to showcase your skills",
+          "duration_months": 3,
+          "prerequisites": [
+            "mobile ui design",
+            "app security"
+          ],
+          "milestones": [
+            "Complete 2 portfolio projects",
+            "Deploy projects online",
+            "Create project presentations"
+          ],
+          "resources": [
+            "GitHub",
+            "Netlify",
+            "Vercel",
+            "Figma",
+            "Canva"
+          ],
+          "tasks": [
+            "Research industry-standard project types",
+            "Create project portfolio website",
+            "Write detailed project case studies",
+            "Prepare project demonstrations",
+            "Get feedback from professionals"
+          ],
+          "children": [
+            {
+              "title": "Portfolio Project 1",
+              "objective": "Build a showcase project demonstrating core skills",
+              "duration_months": 2,
+              "prerequisites": [
+                "mobile ui design",
+                "app security",
+                "swift",
+                "kotlin"
+              ],
+              "milestones": [
+                "Complete project design",
+                "Implement core features",
+                "Deploy to GitHub Pages"
+              ],
+              "resources": [
+                "GitHub",
+                "Netlify/Vercel",
+                "Figma",
+                "Project documentation"
+              ],
+              "tasks": [
+                "Research similar projects for inspiration",
+                "Create project wireframes and design",
+                "Set up project repository on GitHub",
+                "Implement core functionality",
+                "Write comprehensive README",
+                "Deploy project and test functionality",
+                "Create project presentation"
+              ],
+              "children": []
+            },
+            {
+              "title": "Portfolio Project 2",
+              "objective": "Build an advanced project showing specialization",
+              "duration_months": 2,
+              "prerequisites": [
+                "mobile ui design",
+                "app security",
+                "swift",
+                "kotlin",
+                "react native"
+              ],
+              "milestones": [
+                "Complete advanced features",
+                "Add testing",
+                "Optimize performance"
+              ],
+              "resources": [
+                "GitHub",
+                "Testing frameworks",
+                "Performance tools",
+                "Documentation"
+              ],
+              "tasks": [
+                "Choose a more complex project idea",
+                "Plan project architecture",
+                "Implement advanced features",
+                "Add unit and integration tests",
+                "Optimize for performance",
+                "Create detailed documentation",
+                "Prepare project demo"
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Specialization Development",
+          "objective": "Develop expertise in specific areas of your field",
+          "duration_months": 2,
+          "prerequisites": [],
+          "milestones": [
+            "Choose specialization tracks",
+            "Complete specialization projects",
+            "Build expertise portfolio"
+          ],
+          "resources": [
+            "Industry courses",
+            "Professional certifications",
+            "Technical blogs",
+            "Expert communities"
+          ],
+          "tasks": [
+            "Research industry specialization trends",
+            "Choose 2 complementary specializations",
+            "Create specialization learning plan",
+            "Build specialization projects",
+            "Document specialization journey",
+            "Connect with specialization experts"
+          ],
+          "children": [
+            {
+              "title": "Specialization Track A",
+              "objective": "Deep dive into primary specialization area",
+              "duration_months": 2,
+              "prerequisites": [
+                "mobile ui design",
+                "app security",
+                "swift",
+                "kotlin"
+              ],
+              "milestones": [
+                "Complete specialization course",
+                "Build specialization project",
+                "Write technical blog post"
+              ],
+              "resources": [
+                "Specialized courses",
+                "Industry blogs",
+                "Technical documentation",
+                "Community forums"
+              ],
+              "tasks": [
+                "Research specialization requirements",
+                "Complete advanced specialization course",
+                "Build project demonstrating specialization",
+                "Write technical blog post about specialization",
+                "Join specialization-specific communities",
+                "Attend specialization workshops/webinars"
+              ],
+              "children": []
+            },
+            {
+              "title": "Specialization Track B",
+              "objective": "Explore complementary specialization",
+              "duration_months": 2,
+              "prerequisites": [
+                "mobile ui design",
+                "app security",
+                "swift",
+                "kotlin"
+              ],
+              "milestones": [
+                "Complete secondary specialization",
+                "Create comparison analysis",
+                "Build hybrid project"
+              ],
+              "resources": [
+                "Secondary courses",
+                "Industry reports",
+                "Comparison tools",
+                "Documentation"
+              ],
+              "tasks": [
+                "Research complementary specializations",
+                "Complete secondary specialization course",
+                "Create specialization comparison analysis",
+                "Build project combining both specializations",
+                "Document learning journey",
+                "Share insights with community"
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Job Search & Application",
+          "objective": "Land your first role in the field",
+          "duration_months": 3,
+          "prerequisites": [],
+          "milestones": [
+            "Complete professional branding",
+            "Pass technical interviews",
+            "Receive job offers"
+          ],
+          "resources": [
+            "LinkedIn",
+            "Job boards",
+            "Interview platforms",
+            "Networking tools",
+            "Application tracking"
+          ],
+          "tasks": [
+            "Develop comprehensive job search strategy",
+            "Create application tracking system",
+            "Build professional network",
+            "Practice interview skills regularly",
+            "Customize applications for each opportunity",
+            "Follow up on all applications",
+            "Negotiate offers professionally"
+          ],
+          "children": [
+            {
+              "title": "Professional Branding",
+              "objective": "Create compelling professional presence",
+              "duration_months": 1,
+              "prerequisites": [],
+              "milestones": [
+                "Complete LinkedIn profile",
+                "Create professional resume",
+                "Build portfolio website"
+              ],
+              "resources": [
+                "LinkedIn",
+                "Canva",
+                "GitHub Pages",
+                "Resume builders",
+                "Portfolio templates"
+              ],
+              "tasks": [
+                "Optimize LinkedIn profile with keywords",
+                "Create professional headshot",
+                "Write compelling professional summary",
+                "Build comprehensive portfolio website",
+                "Create resume tailored to target roles",
+                "Develop personal brand statement",
+                "Set up professional email signature"
+              ],
+              "children": []
+            },
+            {
+              "title": "Interview Preparation",
+              "objective": "Master technical and behavioral interviews",
+              "duration_months": 1,
+              "prerequisites": [],
+              "milestones": [
+                "Complete 50 practice questions",
+                "Mock interview sessions",
+                "Prepare STAR stories"
+              ],
+              "resources": [
+                "LeetCode",
+                "Pramp",
+                "InterviewBit",
+                "Glassdoor",
+                "YouTube interview prep"
+              ],
+              "tasks": [
+                "Research common interview questions for role",
+                "Practice technical problems daily",
+                "Prepare STAR method stories",
+                "Schedule mock interviews",
+                "Study company-specific interview processes",
+                "Practice coding on whiteboard",
+                "Prepare questions to ask interviewers"
+              ],
+              "children": []
+            },
+            {
+              "title": "Job Search Strategy",
+              "objective": "Execute systematic job search campaign",
+              "duration_months": 1,
+              "prerequisites": [],
+              "milestones": [
+                "Apply to 50+ positions",
+                "Network with 20+ professionals",
+                "Track applications"
+              ],
+              "resources": [
+                "LinkedIn Jobs",
+                "Indeed",
+                "AngelList",
+                "Company websites",
+                "Networking events"
+              ],
+              "tasks": [
+                "Create job search tracking spreadsheet",
+                "Set up job alerts on multiple platforms",
+                "Research target companies thoroughly",
+                "Customize applications for each role",
+                "Attend networking events and meetups",
+                "Reach out to professionals for informational interviews",
+                "Follow up on applications systematically"
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path_title": "Mobile Developer",
+      "focus": "Transition",
+      "confidence_score": 0.8,
+      "steps": [
+        {
+          "title": "Foundations",
+          "objective": "Build essential groundwork for your career",
+          "duration_months": 1,
+          "prerequisites": [],
+          "milestones": [
+            "Complete all foundation modules",
+            "Set up workspace",
+            "Create learning schedule"
+          ],
+          "resources": [
+            "VS Code",
+            "Git",
+            "Notion/Trello",
+            "Calendar app"
+          ],
+          "tasks": [
+            "Set up your learning workspace",
+            "Create a study schedule",
+            "Install all necessary tools",
+            "Join relevant online communities",
+            "Set up project tracking system"
+          ],
+          "children": [
+            {
+              "title": "Computer Basics",
+              "objective": "Master essential computer skills for your career",
+              "duration_months": 1,
+              "prerequisites": [],
+              "milestones": [
+                "Complete command-line tutorial",
+                "Set up development environment",
+                "Create first project folder"
+              ],
+              "resources": [
+                "Codecademy CLI Course",
+                "VS Code Documentation",
+                "GitHub Desktop"
+              ],
+              "tasks": [
+                "Install VS Code and configure extensions",
+                "Learn basic terminal commands (cd, ls, mkdir, touch)",
+                "Create a project folder structure",
+                "Set up version control with Git",
+                "Complete Codecademy CLI course"
+              ],
+              "children": []
+            },
+            {
+              "title": "Math & Logic Basics",
+              "objective": "Build analytical thinking foundation",
+              "duration_months": 1,
+              "prerequisites": [],
+              "milestones": [
+                "Complete Khan Academy modules",
+                "Solve 20 practice problems",
+                "Understand basic statistics"
+              ],
+              "resources": [
+                "Khan Academy",
+                "Coursera Logic Course",
+                "Brilliant.org"
+              ],
+              "tasks": [
+                "Complete Khan Academy Algebra basics",
+                "Practice logical reasoning problems",
+                "Learn basic statistics concepts",
+                "Complete 20 problem-solving exercises",
+                "Take a logic fundamentals course"
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Core Skills Development",
+          "objective": "Master essential skills for Mobile Developer",
+          "duration_months": 4,
+          "prerequisites": [
+            "mobile ui design",
+            "app security"
+          ],
+          "milestones": [
+            "Complete all core skill modules",
+            "Build skill demonstration projects",
+            "Pass skill assessments"
+          ],
+          "resources": [
+            "freeCodeCamp",
+            "Coursera",
+            "Udemy",
+            "LinkedIn Learning"
+          ],
+          "tasks": [
+            "Create a skills tracking spreadsheet",
+            "Set up practice projects for each skill",
+            "Join skill-specific communities",
+            "Find a mentor or study group",
+            "Schedule regular skill assessments"
+          ],
+          "children": [
+            {
+              "title": "Swift Mastery",
+              "objective": "Develop proficiency in swift for Mobile Developer",
+              "duration_months": 2,
+              "prerequisites": [
+                "mobile ui design",
+                "app security"
+              ],
+              "milestones": [
+                "Complete swift course",
+                "Build swift project",
+                "Pass swift assessment"
+              ],
+              "resources": [
+                "Swift Course",
+                "Swift Documentation",
+                "Swift Practice Platform"
+              ],
+              "tasks": [
+                "Complete swift fundamentals course",
+                "Practice swift with hands-on exercises",
+                "Build a small swift project"
+              ],
+              "children": []
+            },
+            {
+              "title": "Kotlin Mastery",
+              "objective": "Develop proficiency in kotlin for Mobile Developer",
+              "duration_months": 2,
+              "prerequisites": [],
+              "milestones": [
+                "Complete kotlin course",
+                "Build kotlin project",
+                "Pass kotlin assessment"
+              ],
+              "resources": [
+                "Kotlin Course",
+                "Kotlin Documentation",
+                "Kotlin Practice Platform"
+              ],
+              "tasks": [
+                "Complete kotlin fundamentals course",
+                "Practice kotlin with hands-on exercises",
+                "Build a small kotlin project"
+              ],
+              "children": []
+            },
+            {
+              "title": "React Native Mastery",
+              "objective": "Develop proficiency in react native for Mobile Developer",
+              "duration_months": 2,
+              "prerequisites": [],
+              "milestones": [
+                "Complete react native course",
+                "Build react native project",
+                "Pass react native assessment"
+              ],
+              "resources": [
+                "React Native Course",
+                "React Native Documentation",
+                "React Native Practice Platform"
+              ],
+              "tasks": [
+                "Complete react native fundamentals course",
+                "Practice react native with hands-on exercises",
+                "Build a small react native project"
+              ],
+              "children": []
+            },
+            {
+              "title": "Flutter Mastery",
+              "objective": "Develop proficiency in flutter for Mobile Developer",
+              "duration_months": 2,
+              "prerequisites": [],
+              "milestones": [
+                "Complete flutter course",
+                "Build flutter project",
+                "Pass flutter assessment"
+              ],
+              "resources": [
+                "Flutter Course",
+                "Flutter Documentation",
+                "Flutter Practice Platform"
+              ],
+              "tasks": [
+                "Complete flutter fundamentals course",
+                "Practice flutter with hands-on exercises",
+                "Build a small flutter project"
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Portfolio Development",
+          "objective": "Create impressive projects to showcase your skills",
+          "duration_months": 2,
+          "prerequisites": [
+            "mobile ui design",
+            "app security"
+          ],
+          "milestones": [
+            "Complete 2 portfolio projects",
+            "Deploy projects online",
+            "Create project presentations"
+          ],
+          "resources": [
+            "GitHub",
+            "Netlify",
+            "Vercel",
+            "Figma",
+            "Canva"
+          ],
+          "tasks": [
+            "Research industry-standard project types",
+            "Create project portfolio website",
+            "Write detailed project case studies",
+            "Prepare project demonstrations",
+            "Get feedback from professionals"
+          ],
+          "children": [
+            {
+              "title": "Portfolio Project 1",
+              "objective": "Build a showcase project demonstrating core skills",
+              "duration_months": 2,
+              "prerequisites": [
+                "mobile ui design",
+                "app security",
+                "swift",
+                "kotlin"
+              ],
+              "milestones": [
+                "Complete project design",
+                "Implement core features",
+                "Deploy to GitHub Pages"
+              ],
+              "resources": [
+                "GitHub",
+                "Netlify/Vercel",
+                "Figma",
+                "Project documentation"
+              ],
+              "tasks": [
+                "Research similar projects for inspiration",
+                "Create project wireframes and design",
+                "Set up project repository on GitHub",
+                "Implement core functionality",
+                "Write comprehensive README",
+                "Deploy project and test functionality",
+                "Create project presentation"
+              ],
+              "children": []
+            },
+            {
+              "title": "Portfolio Project 2",
+              "objective": "Build an advanced project showing specialization",
+              "duration_months": 2,
+              "prerequisites": [
+                "mobile ui design",
+                "app security",
+                "swift",
+                "kotlin",
+                "react native"
+              ],
+              "milestones": [
+                "Complete advanced features",
+                "Add testing",
+                "Optimize performance"
+              ],
+              "resources": [
+                "GitHub",
+                "Testing frameworks",
+                "Performance tools",
+                "Documentation"
+              ],
+              "tasks": [
+                "Choose a more complex project idea",
+                "Plan project architecture",
+                "Implement advanced features",
+                "Add unit and integration tests",
+                "Optimize for performance",
+                "Create detailed documentation",
+                "Prepare project demo"
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Specialization Development",
+          "objective": "Develop expertise in specific areas of your field",
+          "duration_months": 2,
+          "prerequisites": [],
+          "milestones": [
+            "Choose specialization tracks",
+            "Complete specialization projects",
+            "Build expertise portfolio"
+          ],
+          "resources": [
+            "Industry courses",
+            "Professional certifications",
+            "Technical blogs",
+            "Expert communities"
+          ],
+          "tasks": [
+            "Research industry specialization trends",
+            "Choose 2 complementary specializations",
+            "Create specialization learning plan",
+            "Build specialization projects",
+            "Document specialization journey",
+            "Connect with specialization experts"
+          ],
+          "children": [
+            {
+              "title": "Specialization Track A",
+              "objective": "Deep dive into primary specialization area",
+              "duration_months": 2,
+              "prerequisites": [
+                "mobile ui design",
+                "app security",
+                "swift",
+                "kotlin"
+              ],
+              "milestones": [
+                "Complete specialization course",
+                "Build specialization project",
+                "Write technical blog post"
+              ],
+              "resources": [
+                "Specialized courses",
+                "Industry blogs",
+                "Technical documentation",
+                "Community forums"
+              ],
+              "tasks": [
+                "Research specialization requirements",
+                "Complete advanced specialization course",
+                "Build project demonstrating specialization",
+                "Write technical blog post about specialization",
+                "Join specialization-specific communities",
+                "Attend specialization workshops/webinars"
+              ],
+              "children": []
+            },
+            {
+              "title": "Specialization Track B",
+              "objective": "Explore complementary specialization",
+              "duration_months": 2,
+              "prerequisites": [
+                "mobile ui design",
+                "app security",
+                "swift",
+                "kotlin"
+              ],
+              "milestones": [
+                "Complete secondary specialization",
+                "Create comparison analysis",
+                "Build hybrid project"
+              ],
+              "resources": [
+                "Secondary courses",
+                "Industry reports",
+                "Comparison tools",
+                "Documentation"
+              ],
+              "tasks": [
+                "Research complementary specializations",
+                "Complete secondary specialization course",
+                "Create specialization comparison analysis",
+                "Build project combining both specializations",
+                "Document learning journey",
+                "Share insights with community"
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Job Search & Application",
+          "objective": "Land your first role in the field",
+          "duration_months": 4,
+          "prerequisites": [],
+          "milestones": [
+            "Complete professional branding",
+            "Pass technical interviews",
+            "Receive job offers"
+          ],
+          "resources": [
+            "LinkedIn",
+            "Job boards",
+            "Interview platforms",
+            "Networking tools",
+            "Application tracking"
+          ],
+          "tasks": [
+            "Develop comprehensive job search strategy",
+            "Create application tracking system",
+            "Build professional network",
+            "Practice interview skills regularly",
+            "Customize applications for each opportunity",
+            "Follow up on all applications",
+            "Negotiate offers professionally"
+          ],
+          "children": [
+            {
+              "title": "Professional Branding",
+              "objective": "Create compelling professional presence",
+              "duration_months": 1,
+              "prerequisites": [],
+              "milestones": [
+                "Complete LinkedIn profile",
+                "Create professional resume",
+                "Build portfolio website"
+              ],
+              "resources": [
+                "LinkedIn",
+                "Canva",
+                "GitHub Pages",
+                "Resume builders",
+                "Portfolio templates"
+              ],
+              "tasks": [
+                "Optimize LinkedIn profile with keywords",
+                "Create professional headshot",
+                "Write compelling professional summary",
+                "Build comprehensive portfolio website",
+                "Create resume tailored to target roles",
+                "Develop personal brand statement",
+                "Set up professional email signature"
+              ],
+              "children": []
+            },
+            {
+              "title": "Interview Preparation",
+              "objective": "Master technical and behavioral interviews",
+              "duration_months": 1,
+              "prerequisites": [],
+              "milestones": [
+                "Complete 50 practice questions",
+                "Mock interview sessions",
+                "Prepare STAR stories"
+              ],
+              "resources": [
+                "LeetCode",
+                "Pramp",
+                "InterviewBit",
+                "Glassdoor",
+                "YouTube interview prep"
+              ],
+              "tasks": [
+                "Research common interview questions for role",
+                "Practice technical problems daily",
+                "Prepare STAR method stories",
+                "Schedule mock interviews",
+                "Study company-specific interview processes",
+                "Practice coding on whiteboard",
+                "Prepare questions to ask interviewers"
+              ],
+              "children": []
+            },
+            {
+              "title": "Job Search Strategy",
+              "objective": "Execute systematic job search campaign",
+              "duration_months": 1,
+              "prerequisites": [],
+              "milestones": [
+                "Apply to 50+ positions",
+                "Network with 20+ professionals",
+                "Track applications"
+              ],
+              "resources": [
+                "LinkedIn Jobs",
+                "Indeed",
+                "AngelList",
+                "Company websites",
+                "Networking events"
+              ],
+              "tasks": [
+                "Create job search tracking spreadsheet",
+                "Set up job alerts on multiple platforms",
+                "Research target companies thoroughly",
+                "Customize applications for each role",
+                "Attend networking events and meetups",
+                "Reach out to professionals for informational interviews",
+                "Follow up on applications systematically"
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "images": [
+    "/static/roadmaps/roadmap_1.png",
+    "/static/roadmaps/roadmap_2.png",
+    "/static/roadmaps/roadmap_3.png"
+  ]
+}

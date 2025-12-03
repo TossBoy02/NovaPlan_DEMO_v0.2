@@ -1,0 +1,1121 @@
+{
+  "input": {
+    "answers": [
+      {
+        "questionId": 1,
+        "type": "A"
+      },
+      {
+        "questionId": 2,
+        "type": "A"
+      },
+      {
+        "questionId": 3,
+        "type": "D"
+      },
+      {
+        "questionId": 4,
+        "type": "A"
+      },
+      {
+        "questionId": 5,
+        "type": "A"
+      },
+      {
+        "questionId": 6,
+        "type": "A"
+      },
+      {
+        "questionId": 7,
+        "type": "A"
+      },
+      {
+        "questionId": 8,
+        "type": "A"
+      },
+      {
+        "questionId": 9,
+        "type": "A"
+      },
+      {
+        "questionId": 10,
+        "type": "A"
+      }
+    ],
+    "summary": "I like to be a boss"
+  },
+  "derived_skills": [
+    "python",
+    "analgesics",
+    "sql",
+    "data visualization",
+    "project management",
+    "contraindications",
+    "plan tiling",
+    "clean ships"
+  ],
+  "chosen_career": "bid manager",
+  "roadmaps": [
+    {
+      "path_title": "bid manager",
+      "focus": "Depth",
+      "confidence_score": 0.8,
+      "steps": [
+        {
+          "title": "Foundations",
+          "objective": "Build essential groundwork for your career",
+          "duration_months": 1,
+          "prerequisites": [],
+          "milestones": [
+            "Complete foundation modules",
+            "Set up workspace"
+          ],
+          "resources": [
+            "Standard Industry Tools"
+          ],
+          "tasks": [
+            "Set up your learning workspace",
+            "Create a study schedule",
+            "Join relevant online communities"
+          ],
+          "children": [
+            {
+              "title": "Industry Fundamentals",
+              "objective": "Understand the core concepts of bid manager",
+              "duration_months": 1,
+              "prerequisites": [],
+              "milestones": [
+                "Complete introductory course",
+                "Learn industry terminology",
+                "Understand role responsibilities"
+              ],
+              "resources": [
+                "Online Courses",
+                "Industry Glossaries",
+                "Career Guides"
+              ],
+              "tasks": [
+                "Study fundamental concept 1",
+                "Study fundamental concept 2",
+                "Study fundamental concept 3",
+                "Study fundamental concept 4",
+                "Study fundamental concept 5"
+              ],
+              "children": []
+            },
+            {
+              "title": "Tools & Environment",
+              "objective": "Set up your professional workspace",
+              "duration_months": 1,
+              "prerequisites": [],
+              "milestones": [
+                "Install necessary software",
+                "Configure development/work environment",
+                "Join professional communities"
+              ],
+              "resources": [
+                "Official Documentation",
+                "Community Forums"
+              ],
+              "tasks": [
+                "Research standard tools for bid manager",
+                "Install primary software tools",
+                "Create account on professional networks"
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Core Skills Development",
+          "objective": "Master essential skills for bid manager",
+          "duration_months": 5,
+          "prerequisites": [
+            "project management"
+          ],
+          "milestones": [
+            "Complete all core skill modules",
+            "Pass skill assessments"
+          ],
+          "resources": [
+            "Online Learning Platforms"
+          ],
+          "tasks": [
+            "Create a skills tracking spreadsheet",
+            "Set up practice projects",
+            "Find a mentor"
+          ],
+          "children": [
+            {
+              "title": "Carry Out Tendering Proficiency",
+              "objective": "Develop proficiency in carry out tendering",
+              "duration_months": 2,
+              "prerequisites": [
+                "project management"
+              ],
+              "milestones": [
+                "Complete carry out tendering course",
+                "Demonstrate carry out tendering usage",
+                "Pass carry out tendering quiz"
+              ],
+              "resources": [
+                "Carry Out Tendering Resources"
+              ],
+              "tasks": [
+                "Practice carry out tendering fundamentals",
+                "Apply carry out tendering in small scenarios"
+              ],
+              "children": []
+            },
+            {
+              "title": "Cost Management Proficiency",
+              "objective": "Develop proficiency in cost management",
+              "duration_months": 2,
+              "prerequisites": [],
+              "milestones": [
+                "Complete cost management course",
+                "Demonstrate cost management usage",
+                "Pass cost management quiz"
+              ],
+              "resources": [
+                "Cost Management Resources"
+              ],
+              "tasks": [
+                "Practice cost management fundamentals",
+                "Apply cost management in small scenarios"
+              ],
+              "children": []
+            },
+            {
+              "title": "Deliver Business Research Proposals Proficiency",
+              "objective": "Develop proficiency in deliver business research proposals",
+              "duration_months": 2,
+              "prerequisites": [],
+              "milestones": [
+                "Complete deliver business research proposals course",
+                "Demonstrate deliver business research proposals usage",
+                "Pass deliver business research proposals quiz"
+              ],
+              "resources": [
+                "Deliver Business Research Proposals Resources"
+              ],
+              "tasks": [
+                "Practice deliver business research proposals fundamentals",
+                "Apply deliver business research proposals in small scenarios"
+              ],
+              "children": []
+            },
+            {
+              "title": "Evaluate Project Plans Proficiency",
+              "objective": "Develop proficiency in evaluate project plans",
+              "duration_months": 2,
+              "prerequisites": [],
+              "milestones": [
+                "Complete evaluate project plans course",
+                "Demonstrate evaluate project plans usage",
+                "Pass evaluate project plans quiz"
+              ],
+              "resources": [
+                "Evaluate Project Plans Resources"
+              ],
+              "tasks": [
+                "Practice evaluate project plans fundamentals",
+                "Apply evaluate project plans in small scenarios"
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Practical Application",
+          "objective": "Gain hands-on experience through projects or simulations",
+          "duration_months": 2,
+          "prerequisites": [
+            "project management"
+          ],
+          "milestones": [
+            "Complete 2 major projects",
+            "Build portfolio"
+          ],
+          "resources": [
+            "Portfolio Platform"
+          ],
+          "tasks": [
+            "Research industry standard projects",
+            "Document process and outcomes"
+          ],
+          "children": [
+            {
+              "title": "Applied Practice Project",
+              "objective": "Apply core skills in a realistic scenario",
+              "duration_months": 2,
+              "prerequisites": [
+                "project management",
+                "carry out tendering",
+                "cost management"
+              ],
+              "milestones": [
+                "Design project scope",
+                "Implement core features",
+                "Document results"
+              ],
+              "resources": [
+                "Project Management Tools",
+                "Documentation Tools"
+              ],
+              "tasks": [
+                "Select a real-world problem to solve",
+                "Plan the solution",
+                "Implement basic feature 1",
+                "Implement basic feature 2",
+                "Implement basic feature 3",
+                "Implement basic feature 4"
+              ],
+              "children": []
+            },
+            {
+              "title": "Advanced Capstone",
+              "objective": "Demonstrate comprehensive mastery",
+              "duration_months": 2,
+              "prerequisites": [
+                "project management",
+                "carry out tendering",
+                "cost management",
+                "deliver business research proposals"
+              ],
+              "milestones": [
+                "Complete complex project",
+                "Peer review",
+                "Final presentation"
+              ],
+              "resources": [
+                "Advanced Tools"
+              ],
+              "tasks": [
+                "Define advanced project requirements",
+                "Implement advanced feature 1",
+                "Implement advanced feature 2",
+                "Implement advanced feature 3",
+                "Implement advanced feature 4",
+                "Implement advanced feature 5"
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Specialization",
+          "objective": "Develop expertise in specific areas",
+          "duration_months": 2,
+          "prerequisites": [],
+          "milestones": [
+            "Choose specialization",
+            "Achieve advanced competency"
+          ],
+          "resources": [
+            "Industry Certifications"
+          ],
+          "tasks": [
+            "Research trending specializations in bid manager",
+            "Select a niche"
+          ],
+          "children": [
+            {
+              "title": "Specialization Track",
+              "objective": "Deep dive into a specific area",
+              "duration_months": 2,
+              "prerequisites": [
+                "project management",
+                "carry out tendering",
+                "cost management"
+              ],
+              "milestones": [
+                "Complete specialization course",
+                "Advanced certification",
+                "Master advanced concepts"
+              ],
+              "resources": [
+                "Specialized Training"
+              ],
+              "tasks": [
+                "Study advanced topic 1",
+                "Study advanced topic 2",
+                "Study advanced topic 3",
+                "Study advanced topic 4"
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Career Launch",
+          "objective": "Land your first role in the field",
+          "duration_months": 2,
+          "prerequisites": [],
+          "milestones": [
+            "Complete branding",
+            "Secure job offer"
+          ],
+          "resources": [
+            "Job Search Platforms"
+          ],
+          "tasks": [
+            "Develop job search strategy",
+            "Practice interview questions"
+          ],
+          "children": [
+            {
+              "title": "Professional Branding",
+              "objective": "Create compelling professional presence",
+              "duration_months": 1,
+              "prerequisites": [],
+              "milestones": [
+                "Update resume",
+                "Optimize professional profile",
+                "Build portfolio"
+              ],
+              "resources": [
+                "LinkedIn",
+                "Resume Builder"
+              ],
+              "tasks": [
+                "Tailor resume for bid manager",
+                "Highlight key skills: carry out tendering, cost management, deliver business research proposals"
+              ],
+              "children": []
+            },
+            {
+              "title": "Job Search Strategy",
+              "objective": "Execute systematic job search",
+              "duration_months": 1,
+              "prerequisites": [],
+              "milestones": [
+                "Apply to positions",
+                "Network",
+                "Interview prep"
+              ],
+              "resources": [
+                "Job Boards",
+                "Networking Events"
+              ],
+              "tasks": [
+                "Identify top companies for bid manager",
+                "Prepare for interviews"
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path_title": "bid manager",
+      "focus": "Fast-Entry",
+      "confidence_score": 0.8,
+      "steps": [
+        {
+          "title": "Foundations",
+          "objective": "Build essential groundwork for your career",
+          "duration_months": 1,
+          "prerequisites": [],
+          "milestones": [
+            "Complete foundation modules",
+            "Set up workspace"
+          ],
+          "resources": [
+            "Standard Industry Tools"
+          ],
+          "tasks": [
+            "Set up your learning workspace",
+            "Create a study schedule",
+            "Join relevant online communities"
+          ],
+          "children": [
+            {
+              "title": "Industry Fundamentals",
+              "objective": "Understand the core concepts of bid manager",
+              "duration_months": 1,
+              "prerequisites": [],
+              "milestones": [
+                "Complete introductory course",
+                "Learn industry terminology",
+                "Understand role responsibilities"
+              ],
+              "resources": [
+                "Online Courses",
+                "Industry Glossaries",
+                "Career Guides"
+              ],
+              "tasks": [
+                "Study fundamental concept 1",
+                "Study fundamental concept 2",
+                "Study fundamental concept 3",
+                "Study fundamental concept 4",
+                "Study fundamental concept 5"
+              ],
+              "children": []
+            },
+            {
+              "title": "Tools & Environment",
+              "objective": "Set up your professional workspace",
+              "duration_months": 1,
+              "prerequisites": [],
+              "milestones": [
+                "Install necessary software",
+                "Configure development/work environment",
+                "Join professional communities"
+              ],
+              "resources": [
+                "Official Documentation",
+                "Community Forums"
+              ],
+              "tasks": [
+                "Research standard tools for bid manager",
+                "Install primary software tools",
+                "Create account on professional networks"
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Core Skills Development",
+          "objective": "Master essential skills for bid manager",
+          "duration_months": 4,
+          "prerequisites": [
+            "project management"
+          ],
+          "milestones": [
+            "Complete all core skill modules",
+            "Pass skill assessments"
+          ],
+          "resources": [
+            "Online Learning Platforms"
+          ],
+          "tasks": [
+            "Create a skills tracking spreadsheet",
+            "Set up practice projects",
+            "Find a mentor"
+          ],
+          "children": [
+            {
+              "title": "Carry Out Tendering Proficiency",
+              "objective": "Develop proficiency in carry out tendering",
+              "duration_months": 2,
+              "prerequisites": [
+                "project management"
+              ],
+              "milestones": [
+                "Complete carry out tendering course",
+                "Demonstrate carry out tendering usage",
+                "Pass carry out tendering quiz"
+              ],
+              "resources": [
+                "Carry Out Tendering Resources"
+              ],
+              "tasks": [
+                "Practice carry out tendering fundamentals",
+                "Apply carry out tendering in small scenarios"
+              ],
+              "children": []
+            },
+            {
+              "title": "Cost Management Proficiency",
+              "objective": "Develop proficiency in cost management",
+              "duration_months": 2,
+              "prerequisites": [],
+              "milestones": [
+                "Complete cost management course",
+                "Demonstrate cost management usage",
+                "Pass cost management quiz"
+              ],
+              "resources": [
+                "Cost Management Resources"
+              ],
+              "tasks": [
+                "Practice cost management fundamentals",
+                "Apply cost management in small scenarios"
+              ],
+              "children": []
+            },
+            {
+              "title": "Deliver Business Research Proposals Proficiency",
+              "objective": "Develop proficiency in deliver business research proposals",
+              "duration_months": 2,
+              "prerequisites": [],
+              "milestones": [
+                "Complete deliver business research proposals course",
+                "Demonstrate deliver business research proposals usage",
+                "Pass deliver business research proposals quiz"
+              ],
+              "resources": [
+                "Deliver Business Research Proposals Resources"
+              ],
+              "tasks": [
+                "Practice deliver business research proposals fundamentals",
+                "Apply deliver business research proposals in small scenarios"
+              ],
+              "children": []
+            },
+            {
+              "title": "Evaluate Project Plans Proficiency",
+              "objective": "Develop proficiency in evaluate project plans",
+              "duration_months": 2,
+              "prerequisites": [],
+              "milestones": [
+                "Complete evaluate project plans course",
+                "Demonstrate evaluate project plans usage",
+                "Pass evaluate project plans quiz"
+              ],
+              "resources": [
+                "Evaluate Project Plans Resources"
+              ],
+              "tasks": [
+                "Practice evaluate project plans fundamentals",
+                "Apply evaluate project plans in small scenarios"
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Practical Application",
+          "objective": "Gain hands-on experience through projects or simulations",
+          "duration_months": 3,
+          "prerequisites": [
+            "project management"
+          ],
+          "milestones": [
+            "Complete 2 major projects",
+            "Build portfolio"
+          ],
+          "resources": [
+            "Portfolio Platform"
+          ],
+          "tasks": [
+            "Research industry standard projects",
+            "Document process and outcomes"
+          ],
+          "children": [
+            {
+              "title": "Applied Practice Project",
+              "objective": "Apply core skills in a realistic scenario",
+              "duration_months": 2,
+              "prerequisites": [
+                "project management",
+                "carry out tendering",
+                "cost management"
+              ],
+              "milestones": [
+                "Design project scope",
+                "Implement core features",
+                "Document results"
+              ],
+              "resources": [
+                "Project Management Tools",
+                "Documentation Tools"
+              ],
+              "tasks": [
+                "Select a real-world problem to solve",
+                "Plan the solution",
+                "Implement basic feature 1",
+                "Implement basic feature 2",
+                "Implement basic feature 3",
+                "Implement basic feature 4"
+              ],
+              "children": []
+            },
+            {
+              "title": "Advanced Capstone",
+              "objective": "Demonstrate comprehensive mastery",
+              "duration_months": 2,
+              "prerequisites": [
+                "project management",
+                "carry out tendering",
+                "cost management",
+                "deliver business research proposals"
+              ],
+              "milestones": [
+                "Complete complex project",
+                "Peer review",
+                "Final presentation"
+              ],
+              "resources": [
+                "Advanced Tools"
+              ],
+              "tasks": [
+                "Define advanced project requirements",
+                "Implement advanced feature 1",
+                "Implement advanced feature 2",
+                "Implement advanced feature 3",
+                "Implement advanced feature 4",
+                "Implement advanced feature 5"
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Specialization",
+          "objective": "Develop expertise in specific areas",
+          "duration_months": 2,
+          "prerequisites": [],
+          "milestones": [
+            "Choose specialization",
+            "Achieve advanced competency"
+          ],
+          "resources": [
+            "Industry Certifications"
+          ],
+          "tasks": [
+            "Research trending specializations in bid manager",
+            "Select a niche"
+          ],
+          "children": [
+            {
+              "title": "Specialization Track",
+              "objective": "Deep dive into a specific area",
+              "duration_months": 2,
+              "prerequisites": [
+                "project management",
+                "carry out tendering",
+                "cost management"
+              ],
+              "milestones": [
+                "Complete specialization course",
+                "Advanced certification",
+                "Master advanced concepts"
+              ],
+              "resources": [
+                "Specialized Training"
+              ],
+              "tasks": [
+                "Study advanced topic 1",
+                "Study advanced topic 2",
+                "Study advanced topic 3",
+                "Study advanced topic 4"
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Career Launch",
+          "objective": "Land your first role in the field",
+          "duration_months": 2,
+          "prerequisites": [],
+          "milestones": [
+            "Complete branding",
+            "Secure job offer"
+          ],
+          "resources": [
+            "Job Search Platforms"
+          ],
+          "tasks": [
+            "Develop job search strategy",
+            "Practice interview questions"
+          ],
+          "children": [
+            {
+              "title": "Professional Branding",
+              "objective": "Create compelling professional presence",
+              "duration_months": 1,
+              "prerequisites": [],
+              "milestones": [
+                "Update resume",
+                "Optimize professional profile",
+                "Build portfolio"
+              ],
+              "resources": [
+                "LinkedIn",
+                "Resume Builder"
+              ],
+              "tasks": [
+                "Tailor resume for bid manager",
+                "Highlight key skills: carry out tendering, cost management, deliver business research proposals"
+              ],
+              "children": []
+            },
+            {
+              "title": "Job Search Strategy",
+              "objective": "Execute systematic job search",
+              "duration_months": 1,
+              "prerequisites": [],
+              "milestones": [
+                "Apply to positions",
+                "Network",
+                "Interview prep"
+              ],
+              "resources": [
+                "Job Boards",
+                "Networking Events"
+              ],
+              "tasks": [
+                "Identify top companies for bid manager",
+                "Prepare for interviews"
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path_title": "bid manager",
+      "focus": "Transition",
+      "confidence_score": 0.8,
+      "steps": [
+        {
+          "title": "Foundations",
+          "objective": "Build essential groundwork for your career",
+          "duration_months": 1,
+          "prerequisites": [],
+          "milestones": [
+            "Complete foundation modules",
+            "Set up workspace"
+          ],
+          "resources": [
+            "Standard Industry Tools"
+          ],
+          "tasks": [
+            "Set up your learning workspace",
+            "Create a study schedule",
+            "Join relevant online communities"
+          ],
+          "children": [
+            {
+              "title": "Industry Fundamentals",
+              "objective": "Understand the core concepts of bid manager",
+              "duration_months": 1,
+              "prerequisites": [],
+              "milestones": [
+                "Complete introductory course",
+                "Learn industry terminology",
+                "Understand role responsibilities"
+              ],
+              "resources": [
+                "Online Courses",
+                "Industry Glossaries",
+                "Career Guides"
+              ],
+              "tasks": [
+                "Study fundamental concept 1",
+                "Study fundamental concept 2",
+                "Study fundamental concept 3",
+                "Study fundamental concept 4",
+                "Study fundamental concept 5"
+              ],
+              "children": []
+            },
+            {
+              "title": "Tools & Environment",
+              "objective": "Set up your professional workspace",
+              "duration_months": 1,
+              "prerequisites": [],
+              "milestones": [
+                "Install necessary software",
+                "Configure development/work environment",
+                "Join professional communities"
+              ],
+              "resources": [
+                "Official Documentation",
+                "Community Forums"
+              ],
+              "tasks": [
+                "Research standard tools for bid manager",
+                "Install primary software tools",
+                "Create account on professional networks"
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Core Skills Development",
+          "objective": "Master essential skills for bid manager",
+          "duration_months": 4,
+          "prerequisites": [
+            "project management"
+          ],
+          "milestones": [
+            "Complete all core skill modules",
+            "Pass skill assessments"
+          ],
+          "resources": [
+            "Online Learning Platforms"
+          ],
+          "tasks": [
+            "Create a skills tracking spreadsheet",
+            "Set up practice projects",
+            "Find a mentor"
+          ],
+          "children": [
+            {
+              "title": "Carry Out Tendering Proficiency",
+              "objective": "Develop proficiency in carry out tendering",
+              "duration_months": 2,
+              "prerequisites": [
+                "project management"
+              ],
+              "milestones": [
+                "Complete carry out tendering course",
+                "Demonstrate carry out tendering usage",
+                "Pass carry out tendering quiz"
+              ],
+              "resources": [
+                "Carry Out Tendering Resources"
+              ],
+              "tasks": [
+                "Practice carry out tendering fundamentals",
+                "Apply carry out tendering in small scenarios"
+              ],
+              "children": []
+            },
+            {
+              "title": "Cost Management Proficiency",
+              "objective": "Develop proficiency in cost management",
+              "duration_months": 2,
+              "prerequisites": [],
+              "milestones": [
+                "Complete cost management course",
+                "Demonstrate cost management usage",
+                "Pass cost management quiz"
+              ],
+              "resources": [
+                "Cost Management Resources"
+              ],
+              "tasks": [
+                "Practice cost management fundamentals",
+                "Apply cost management in small scenarios"
+              ],
+              "children": []
+            },
+            {
+              "title": "Deliver Business Research Proposals Proficiency",
+              "objective": "Develop proficiency in deliver business research proposals",
+              "duration_months": 2,
+              "prerequisites": [],
+              "milestones": [
+                "Complete deliver business research proposals course",
+                "Demonstrate deliver business research proposals usage",
+                "Pass deliver business research proposals quiz"
+              ],
+              "resources": [
+                "Deliver Business Research Proposals Resources"
+              ],
+              "tasks": [
+                "Practice deliver business research proposals fundamentals",
+                "Apply deliver business research proposals in small scenarios"
+              ],
+              "children": []
+            },
+            {
+              "title": "Evaluate Project Plans Proficiency",
+              "objective": "Develop proficiency in evaluate project plans",
+              "duration_months": 2,
+              "prerequisites": [],
+              "milestones": [
+                "Complete evaluate project plans course",
+                "Demonstrate evaluate project plans usage",
+                "Pass evaluate project plans quiz"
+              ],
+              "resources": [
+                "Evaluate Project Plans Resources"
+              ],
+              "tasks": [
+                "Practice evaluate project plans fundamentals",
+                "Apply evaluate project plans in small scenarios"
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Practical Application",
+          "objective": "Gain hands-on experience through projects or simulations",
+          "duration_months": 2,
+          "prerequisites": [
+            "project management"
+          ],
+          "milestones": [
+            "Complete 2 major projects",
+            "Build portfolio"
+          ],
+          "resources": [
+            "Portfolio Platform"
+          ],
+          "tasks": [
+            "Research industry standard projects",
+            "Document process and outcomes"
+          ],
+          "children": [
+            {
+              "title": "Applied Practice Project",
+              "objective": "Apply core skills in a realistic scenario",
+              "duration_months": 2,
+              "prerequisites": [
+                "project management",
+                "carry out tendering",
+                "cost management"
+              ],
+              "milestones": [
+                "Design project scope",
+                "Implement core features",
+                "Document results"
+              ],
+              "resources": [
+                "Project Management Tools",
+                "Documentation Tools"
+              ],
+              "tasks": [
+                "Select a real-world problem to solve",
+                "Plan the solution",
+                "Implement basic feature 1",
+                "Implement basic feature 2",
+                "Implement basic feature 3",
+                "Implement basic feature 4"
+              ],
+              "children": []
+            },
+            {
+              "title": "Advanced Capstone",
+              "objective": "Demonstrate comprehensive mastery",
+              "duration_months": 2,
+              "prerequisites": [
+                "project management",
+                "carry out tendering",
+                "cost management",
+                "deliver business research proposals"
+              ],
+              "milestones": [
+                "Complete complex project",
+                "Peer review",
+                "Final presentation"
+              ],
+              "resources": [
+                "Advanced Tools"
+              ],
+              "tasks": [
+                "Define advanced project requirements",
+                "Implement advanced feature 1",
+                "Implement advanced feature 2",
+                "Implement advanced feature 3",
+                "Implement advanced feature 4",
+                "Implement advanced feature 5"
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Specialization",
+          "objective": "Develop expertise in specific areas",
+          "duration_months": 2,
+          "prerequisites": [],
+          "milestones": [
+            "Choose specialization",
+            "Achieve advanced competency"
+          ],
+          "resources": [
+            "Industry Certifications"
+          ],
+          "tasks": [
+            "Research trending specializations in bid manager",
+            "Select a niche"
+          ],
+          "children": [
+            {
+              "title": "Specialization Track",
+              "objective": "Deep dive into a specific area",
+              "duration_months": 2,
+              "prerequisites": [
+                "project management",
+                "carry out tendering",
+                "cost management"
+              ],
+              "milestones": [
+                "Complete specialization course",
+                "Advanced certification",
+                "Master advanced concepts"
+              ],
+              "resources": [
+                "Specialized Training"
+              ],
+              "tasks": [
+                "Study advanced topic 1",
+                "Study advanced topic 2",
+                "Study advanced topic 3",
+                "Study advanced topic 4"
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Career Launch",
+          "objective": "Land your first role in the field",
+          "duration_months": 3,
+          "prerequisites": [],
+          "milestones": [
+            "Complete branding",
+            "Secure job offer"
+          ],
+          "resources": [
+            "Job Search Platforms"
+          ],
+          "tasks": [
+            "Develop job search strategy",
+            "Practice interview questions"
+          ],
+          "children": [
+            {
+              "title": "Professional Branding",
+              "objective": "Create compelling professional presence",
+              "duration_months": 1,
+              "prerequisites": [],
+              "milestones": [
+                "Update resume",
+                "Optimize professional profile",
+                "Build portfolio"
+              ],
+              "resources": [
+                "LinkedIn",
+                "Resume Builder"
+              ],
+              "tasks": [
+                "Tailor resume for bid manager",
+                "Highlight key skills: carry out tendering, cost management, deliver business research proposals"
+              ],
+              "children": []
+            },
+            {
+              "title": "Job Search Strategy",
+              "objective": "Execute systematic job search",
+              "duration_months": 1,
+              "prerequisites": [],
+              "milestones": [
+                "Apply to positions",
+                "Network",
+                "Interview prep"
+              ],
+              "resources": [
+                "Job Boards",
+                "Networking Events"
+              ],
+              "tasks": [
+                "Identify top companies for bid manager",
+                "Prepare for interviews"
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "images": [
+    "/static/roadmaps/roadmap_1.png",
+    "/static/roadmaps/roadmap_2.png",
+    "/static/roadmaps/roadmap_3.png"
+  ]
+}

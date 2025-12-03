@@ -1,0 +1,222 @@
+{
+  "input": {
+    "answers": [
+      {
+        "questionId": 1,
+        "type": "A"
+      },
+      {
+        "questionId": 2,
+        "type": "A"
+      },
+      {
+        "questionId": 3,
+        "type": "D"
+      },
+      {
+        "questionId": 4,
+        "type": "A"
+      },
+      {
+        "questionId": 5,
+        "type": "A"
+      },
+      {
+        "questionId": 6,
+        "type": "A"
+      },
+      {
+        "questionId": 7,
+        "type": "A"
+      },
+      {
+        "questionId": 8,
+        "type": "A"
+      },
+      {
+        "questionId": 9,
+        "type": "A"
+      },
+      {
+        "questionId": 10,
+        "type": "A"
+      }
+    ],
+    "summary": "I like programming"
+  },
+  "derived_skills": [
+    "python",
+    "pandas",
+    "sql",
+    "data visualization",
+    "react",
+    "javascript"
+  ],
+  "chosen_career": "Data Analyst",
+  "roadmaps": [
+    {
+      "path_title": "Data Analyst",
+      "focus": "Depth",
+      "confidence_score": 0.8,
+      "steps": [
+        {
+          "title": "Start: Core Foundations",
+          "objective": "Get a strong foundation",
+          "duration_months": 1,
+          "prerequisites": [
+            "python",
+            "sql",
+            "data visualization",
+            "pandas"
+          ],
+          "milestones": [
+            "Complete basics"
+          ],
+          "resources": [
+            "freeCodeCamp"
+          ]
+        },
+        {
+          "title": "Project: Build Portfolio",
+          "objective": "Create a showcase project",
+          "duration_months": 2,
+          "prerequisites": [
+            "python",
+            "sql",
+            "data visualization",
+            "pandas"
+          ],
+          "milestones": [
+            "Deploy project"
+          ],
+          "resources": [
+            "GitHub, Netlify"
+          ]
+        },
+        {
+          "title": "Job Hunt & Apply",
+          "objective": "Prepare resume and apply",
+          "duration_months": 1,
+          "prerequisites": [],
+          "milestones": [
+            "Apply to 10 jobs"
+          ],
+          "resources": [
+            "LinkedIn"
+          ]
+        }
+      ]
+    },
+    {
+      "path_title": "Data Analyst",
+      "focus": "Fast-Entry",
+      "confidence_score": 0.8,
+      "steps": [
+        {
+          "title": "Start: Core Foundations",
+          "objective": "Get a strong foundation",
+          "duration_months": 1,
+          "prerequisites": [
+            "python",
+            "sql",
+            "data visualization",
+            "pandas"
+          ],
+          "milestones": [
+            "Complete basics"
+          ],
+          "resources": [
+            "freeCodeCamp"
+          ]
+        },
+        {
+          "title": "Project: Build Portfolio",
+          "objective": "Create a showcase project",
+          "duration_months": 2,
+          "prerequisites": [
+            "python",
+            "sql",
+            "data visualization",
+            "pandas"
+          ],
+          "milestones": [
+            "Deploy project"
+          ],
+          "resources": [
+            "GitHub, Netlify"
+          ]
+        },
+        {
+          "title": "Job Hunt & Apply",
+          "objective": "Prepare resume and apply",
+          "duration_months": 1,
+          "prerequisites": [],
+          "milestones": [
+            "Apply to 10 jobs"
+          ],
+          "resources": [
+            "LinkedIn"
+          ]
+        }
+      ]
+    },
+    {
+      "path_title": "Data Analyst",
+      "focus": "Transition",
+      "confidence_score": 0.8,
+      "steps": [
+        {
+          "title": "Start: Core Foundations",
+          "objective": "Get a strong foundation",
+          "duration_months": 1,
+          "prerequisites": [
+            "python",
+            "sql",
+            "data visualization",
+            "pandas"
+          ],
+          "milestones": [
+            "Complete basics"
+          ],
+          "resources": [
+            "freeCodeCamp"
+          ]
+        },
+        {
+          "title": "Project: Build Portfolio",
+          "objective": "Create a showcase project",
+          "duration_months": 2,
+          "prerequisites": [
+            "python",
+            "sql",
+            "data visualization",
+            "pandas"
+          ],
+          "milestones": [
+            "Deploy project"
+          ],
+          "resources": [
+            "GitHub, Netlify"
+          ]
+        },
+        {
+          "title": "Job Hunt & Apply",
+          "objective": "Prepare resume and apply",
+          "duration_months": 1,
+          "prerequisites": [],
+          "milestones": [
+            "Apply to 10 jobs"
+          ],
+          "resources": [
+            "LinkedIn"
+          ]
+        }
+      ]
+    }
+  ],
+  "images": [
+    "/static/roadmaps/roadmap_1.png",
+    "/static/roadmaps/roadmap_2.png",
+    "/static/roadmaps/roadmap_3.png"
+  ]
+}

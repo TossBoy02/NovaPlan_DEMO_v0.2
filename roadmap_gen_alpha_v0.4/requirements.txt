@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+requests
+pandas
+sentence-transformers
+faiss-cpu
+scikit-learn
+matplotlib
+pathlib
+python-multipart
+jinja2
+rapidfuzz

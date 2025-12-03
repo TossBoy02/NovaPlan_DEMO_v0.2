@@ -1,0 +1,1121 @@
+{
+  "input": {
+    "answers": [
+      {
+        "questionId": 1,
+        "type": "B"
+      },
+      {
+        "questionId": 2,
+        "type": "B"
+      },
+      {
+        "questionId": 3,
+        "type": "D"
+      },
+      {
+        "questionId": 4,
+        "type": "B"
+      },
+      {
+        "questionId": 5,
+        "type": "A"
+      },
+      {
+        "questionId": 6,
+        "type": "D"
+      },
+      {
+        "questionId": 7,
+        "type": "A"
+      },
+      {
+        "questionId": 8,
+        "type": "C"
+      },
+      {
+        "questionId": 9,
+        "type": "A"
+      },
+      {
+        "questionId": 10,
+        "type": "B"
+      }
+    ],
+    "summary": ""
+  },
+  "derived_skills": [
+    "communication",
+    "teach writing",
+    "etiopathy",
+    "reforestation",
+    "python",
+    "analgesics",
+    "sql",
+    "data visualization"
+  ],
+  "chosen_career": "boiler operator",
+  "roadmaps": [
+    {
+      "path_title": "boiler operator",
+      "focus": "Depth",
+      "confidence_score": 0.8,
+      "steps": [
+        {
+          "title": "Foundations",
+          "objective": "Build essential groundwork for your career",
+          "duration_months": 1,
+          "prerequisites": [],
+          "milestones": [
+            "Complete foundation modules",
+            "Set up workspace"
+          ],
+          "resources": [
+            "Standard Industry Tools"
+          ],
+          "tasks": [
+            "Set up your learning workspace",
+            "Create a study schedule",
+            "Join relevant online communities"
+          ],
+          "children": [
+            {
+              "title": "Industry Fundamentals",
+              "objective": "Understand the core concepts of boiler operator",
+              "duration_months": 1,
+              "prerequisites": [],
+              "milestones": [
+                "Complete introductory course",
+                "Learn industry terminology",
+                "Understand role responsibilities"
+              ],
+              "resources": [
+                "Online Courses",
+                "Industry Glossaries",
+                "Career Guides"
+              ],
+              "tasks": [
+                "Study fundamental concept 1",
+                "Study fundamental concept 2",
+                "Study fundamental concept 3",
+                "Study fundamental concept 4",
+                "Study fundamental concept 5"
+              ],
+              "children": []
+            },
+            {
+              "title": "Tools & Environment",
+              "objective": "Set up your professional workspace",
+              "duration_months": 1,
+              "prerequisites": [],
+              "milestones": [
+                "Install necessary software",
+                "Configure development/work environment",
+                "Join professional communities"
+              ],
+              "resources": [
+                "Official Documentation",
+                "Community Forums"
+              ],
+              "tasks": [
+                "Research standard tools for boiler operator",
+                "Install primary software tools",
+                "Create account on professional networks"
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Core Skills Development",
+          "objective": "Master essential skills for boiler operator",
+          "duration_months": 5,
+          "prerequisites": [
+            "communication"
+          ],
+          "milestones": [
+            "Complete all core skill modules",
+            "Pass skill assessments"
+          ],
+          "resources": [
+            "Online Learning Platforms"
+          ],
+          "tasks": [
+            "Create a skills tracking spreadsheet",
+            "Set up practice projects",
+            "Find a mentor"
+          ],
+          "children": [
+            {
+              "title": "Control Steam Flows Proficiency",
+              "objective": "Develop proficiency in control steam flows",
+              "duration_months": 2,
+              "prerequisites": [
+                "communication"
+              ],
+              "milestones": [
+                "Complete control steam flows course",
+                "Demonstrate control steam flows usage",
+                "Pass control steam flows quiz"
+              ],
+              "resources": [
+                "Control Steam Flows Resources"
+              ],
+              "tasks": [
+                "Practice control steam flows fundamentals",
+                "Apply control steam flows in small scenarios"
+              ],
+              "children": []
+            },
+            {
+              "title": "Domestic Cooling Systems Proficiency",
+              "objective": "Develop proficiency in domestic cooling systems",
+              "duration_months": 2,
+              "prerequisites": [],
+              "milestones": [
+                "Complete domestic cooling systems course",
+                "Demonstrate domestic cooling systems usage",
+                "Pass domestic cooling systems quiz"
+              ],
+              "resources": [
+                "Domestic Cooling Systems Resources"
+              ],
+              "tasks": [
+                "Practice domestic cooling systems fundamentals",
+                "Apply domestic cooling systems in small scenarios"
+              ],
+              "children": []
+            },
+            {
+              "title": "Ensure Equipment Maintenance Proficiency",
+              "objective": "Develop proficiency in ensure equipment maintenance",
+              "duration_months": 2,
+              "prerequisites": [],
+              "milestones": [
+                "Complete ensure equipment maintenance course",
+                "Demonstrate ensure equipment maintenance usage",
+                "Pass ensure equipment maintenance quiz"
+              ],
+              "resources": [
+                "Ensure Equipment Maintenance Resources"
+              ],
+              "tasks": [
+                "Practice ensure equipment maintenance fundamentals",
+                "Apply ensure equipment maintenance in small scenarios"
+              ],
+              "children": []
+            },
+            {
+              "title": "Ensure Sanitation Proficiency",
+              "objective": "Develop proficiency in ensure sanitation",
+              "duration_months": 2,
+              "prerequisites": [],
+              "milestones": [
+                "Complete ensure sanitation course",
+                "Demonstrate ensure sanitation usage",
+                "Pass ensure sanitation quiz"
+              ],
+              "resources": [
+                "Ensure Sanitation Resources"
+              ],
+              "tasks": [
+                "Practice ensure sanitation fundamentals",
+                "Apply ensure sanitation in small scenarios"
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Practical Application",
+          "objective": "Gain hands-on experience through projects or simulations",
+          "duration_months": 2,
+          "prerequisites": [
+            "communication"
+          ],
+          "milestones": [
+            "Complete 2 major projects",
+            "Build portfolio"
+          ],
+          "resources": [
+            "Portfolio Platform"
+          ],
+          "tasks": [
+            "Research industry standard projects",
+            "Document process and outcomes"
+          ],
+          "children": [
+            {
+              "title": "Applied Practice Project",
+              "objective": "Apply core skills in a realistic scenario",
+              "duration_months": 2,
+              "prerequisites": [
+                "communication",
+                "control steam flows",
+                "domestic cooling systems"
+              ],
+              "milestones": [
+                "Design project scope",
+                "Implement core features",
+                "Document results"
+              ],
+              "resources": [
+                "Project Management Tools",
+                "Documentation Tools"
+              ],
+              "tasks": [
+                "Select a real-world problem to solve",
+                "Plan the solution",
+                "Implement basic feature 1",
+                "Implement basic feature 2",
+                "Implement basic feature 3",
+                "Implement basic feature 4"
+              ],
+              "children": []
+            },
+            {
+              "title": "Advanced Capstone",
+              "objective": "Demonstrate comprehensive mastery",
+              "duration_months": 2,
+              "prerequisites": [
+                "communication",
+                "control steam flows",
+                "domestic cooling systems",
+                "ensure equipment maintenance"
+              ],
+              "milestones": [
+                "Complete complex project",
+                "Peer review",
+                "Final presentation"
+              ],
+              "resources": [
+                "Advanced Tools"
+              ],
+              "tasks": [
+                "Define advanced project requirements",
+                "Implement advanced feature 1",
+                "Implement advanced feature 2",
+                "Implement advanced feature 3",
+                "Implement advanced feature 4",
+                "Implement advanced feature 5"
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Specialization",
+          "objective": "Develop expertise in specific areas",
+          "duration_months": 2,
+          "prerequisites": [],
+          "milestones": [
+            "Choose specialization",
+            "Achieve advanced competency"
+          ],
+          "resources": [
+            "Industry Certifications"
+          ],
+          "tasks": [
+            "Research trending specializations in boiler operator",
+            "Select a niche"
+          ],
+          "children": [
+            {
+              "title": "Specialization Track",
+              "objective": "Deep dive into a specific area",
+              "duration_months": 2,
+              "prerequisites": [
+                "communication",
+                "control steam flows",
+                "domestic cooling systems"
+              ],
+              "milestones": [
+                "Complete specialization course",
+                "Advanced certification",
+                "Master advanced concepts"
+              ],
+              "resources": [
+                "Specialized Training"
+              ],
+              "tasks": [
+                "Study advanced topic 1",
+                "Study advanced topic 2",
+                "Study advanced topic 3",
+                "Study advanced topic 4"
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Career Launch",
+          "objective": "Land your first role in the field",
+          "duration_months": 2,
+          "prerequisites": [],
+          "milestones": [
+            "Complete branding",
+            "Secure job offer"
+          ],
+          "resources": [
+            "Job Search Platforms"
+          ],
+          "tasks": [
+            "Develop job search strategy",
+            "Practice interview questions"
+          ],
+          "children": [
+            {
+              "title": "Professional Branding",
+              "objective": "Create compelling professional presence",
+              "duration_months": 1,
+              "prerequisites": [],
+              "milestones": [
+                "Update resume",
+                "Optimize professional profile",
+                "Build portfolio"
+              ],
+              "resources": [
+                "LinkedIn",
+                "Resume Builder"
+              ],
+              "tasks": [
+                "Tailor resume for boiler operator",
+                "Highlight key skills: control steam flows, domestic cooling systems, ensure equipment maintenance"
+              ],
+              "children": []
+            },
+            {
+              "title": "Job Search Strategy",
+              "objective": "Execute systematic job search",
+              "duration_months": 1,
+              "prerequisites": [],
+              "milestones": [
+                "Apply to positions",
+                "Network",
+                "Interview prep"
+              ],
+              "resources": [
+                "Job Boards",
+                "Networking Events"
+              ],
+              "tasks": [
+                "Identify top companies for boiler operator",
+                "Prepare for interviews"
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path_title": "boiler operator",
+      "focus": "Fast-Entry",
+      "confidence_score": 0.8,
+      "steps": [
+        {
+          "title": "Foundations",
+          "objective": "Build essential groundwork for your career",
+          "duration_months": 1,
+          "prerequisites": [],
+          "milestones": [
+            "Complete foundation modules",
+            "Set up workspace"
+          ],
+          "resources": [
+            "Standard Industry Tools"
+          ],
+          "tasks": [
+            "Set up your learning workspace",
+            "Create a study schedule",
+            "Join relevant online communities"
+          ],
+          "children": [
+            {
+              "title": "Industry Fundamentals",
+              "objective": "Understand the core concepts of boiler operator",
+              "duration_months": 1,
+              "prerequisites": [],
+              "milestones": [
+                "Complete introductory course",
+                "Learn industry terminology",
+                "Understand role responsibilities"
+              ],
+              "resources": [
+                "Online Courses",
+                "Industry Glossaries",
+                "Career Guides"
+              ],
+              "tasks": [
+                "Study fundamental concept 1",
+                "Study fundamental concept 2",
+                "Study fundamental concept 3",
+                "Study fundamental concept 4",
+                "Study fundamental concept 5"
+              ],
+              "children": []
+            },
+            {
+              "title": "Tools & Environment",
+              "objective": "Set up your professional workspace",
+              "duration_months": 1,
+              "prerequisites": [],
+              "milestones": [
+                "Install necessary software",
+                "Configure development/work environment",
+                "Join professional communities"
+              ],
+              "resources": [
+                "Official Documentation",
+                "Community Forums"
+              ],
+              "tasks": [
+                "Research standard tools for boiler operator",
+                "Install primary software tools",
+                "Create account on professional networks"
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Core Skills Development",
+          "objective": "Master essential skills for boiler operator",
+          "duration_months": 4,
+          "prerequisites": [
+            "communication"
+          ],
+          "milestones": [
+            "Complete all core skill modules",
+            "Pass skill assessments"
+          ],
+          "resources": [
+            "Online Learning Platforms"
+          ],
+          "tasks": [
+            "Create a skills tracking spreadsheet",
+            "Set up practice projects",
+            "Find a mentor"
+          ],
+          "children": [
+            {
+              "title": "Control Steam Flows Proficiency",
+              "objective": "Develop proficiency in control steam flows",
+              "duration_months": 2,
+              "prerequisites": [
+                "communication"
+              ],
+              "milestones": [
+                "Complete control steam flows course",
+                "Demonstrate control steam flows usage",
+                "Pass control steam flows quiz"
+              ],
+              "resources": [
+                "Control Steam Flows Resources"
+              ],
+              "tasks": [
+                "Practice control steam flows fundamentals",
+                "Apply control steam flows in small scenarios"
+              ],
+              "children": []
+            },
+            {
+              "title": "Domestic Cooling Systems Proficiency",
+              "objective": "Develop proficiency in domestic cooling systems",
+              "duration_months": 2,
+              "prerequisites": [],
+              "milestones": [
+                "Complete domestic cooling systems course",
+                "Demonstrate domestic cooling systems usage",
+                "Pass domestic cooling systems quiz"
+              ],
+              "resources": [
+                "Domestic Cooling Systems Resources"
+              ],
+              "tasks": [
+                "Practice domestic cooling systems fundamentals",
+                "Apply domestic cooling systems in small scenarios"
+              ],
+              "children": []
+            },
+            {
+              "title": "Ensure Equipment Maintenance Proficiency",
+              "objective": "Develop proficiency in ensure equipment maintenance",
+              "duration_months": 2,
+              "prerequisites": [],
+              "milestones": [
+                "Complete ensure equipment maintenance course",
+                "Demonstrate ensure equipment maintenance usage",
+                "Pass ensure equipment maintenance quiz"
+              ],
+              "resources": [
+                "Ensure Equipment Maintenance Resources"
+              ],
+              "tasks": [
+                "Practice ensure equipment maintenance fundamentals",
+                "Apply ensure equipment maintenance in small scenarios"
+              ],
+              "children": []
+            },
+            {
+              "title": "Ensure Sanitation Proficiency",
+              "objective": "Develop proficiency in ensure sanitation",
+              "duration_months": 2,
+              "prerequisites": [],
+              "milestones": [
+                "Complete ensure sanitation course",
+                "Demonstrate ensure sanitation usage",
+                "Pass ensure sanitation quiz"
+              ],
+              "resources": [
+                "Ensure Sanitation Resources"
+              ],
+              "tasks": [
+                "Practice ensure sanitation fundamentals",
+                "Apply ensure sanitation in small scenarios"
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Practical Application",
+          "objective": "Gain hands-on experience through projects or simulations",
+          "duration_months": 3,
+          "prerequisites": [
+            "communication"
+          ],
+          "milestones": [
+            "Complete 2 major projects",
+            "Build portfolio"
+          ],
+          "resources": [
+            "Portfolio Platform"
+          ],
+          "tasks": [
+            "Research industry standard projects",
+            "Document process and outcomes"
+          ],
+          "children": [
+            {
+              "title": "Applied Practice Project",
+              "objective": "Apply core skills in a realistic scenario",
+              "duration_months": 2,
+              "prerequisites": [
+                "communication",
+                "control steam flows",
+                "domestic cooling systems"
+              ],
+              "milestones": [
+                "Design project scope",
+                "Implement core features",
+                "Document results"
+              ],
+              "resources": [
+                "Project Management Tools",
+                "Documentation Tools"
+              ],
+              "tasks": [
+                "Select a real-world problem to solve",
+                "Plan the solution",
+                "Implement basic feature 1",
+                "Implement basic feature 2",
+                "Implement basic feature 3",
+                "Implement basic feature 4"
+              ],
+              "children": []
+            },
+            {
+              "title": "Advanced Capstone",
+              "objective": "Demonstrate comprehensive mastery",
+              "duration_months": 2,
+              "prerequisites": [
+                "communication",
+                "control steam flows",
+                "domestic cooling systems",
+                "ensure equipment maintenance"
+              ],
+              "milestones": [
+                "Complete complex project",
+                "Peer review",
+                "Final presentation"
+              ],
+              "resources": [
+                "Advanced Tools"
+              ],
+              "tasks": [
+                "Define advanced project requirements",
+                "Implement advanced feature 1",
+                "Implement advanced feature 2",
+                "Implement advanced feature 3",
+                "Implement advanced feature 4",
+                "Implement advanced feature 5"
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Specialization",
+          "objective": "Develop expertise in specific areas",
+          "duration_months": 2,
+          "prerequisites": [],
+          "milestones": [
+            "Choose specialization",
+            "Achieve advanced competency"
+          ],
+          "resources": [
+            "Industry Certifications"
+          ],
+          "tasks": [
+            "Research trending specializations in boiler operator",
+            "Select a niche"
+          ],
+          "children": [
+            {
+              "title": "Specialization Track",
+              "objective": "Deep dive into a specific area",
+              "duration_months": 2,
+              "prerequisites": [
+                "communication",
+                "control steam flows",
+                "domestic cooling systems"
+              ],
+              "milestones": [
+                "Complete specialization course",
+                "Advanced certification",
+                "Master advanced concepts"
+              ],
+              "resources": [
+                "Specialized Training"
+              ],
+              "tasks": [
+                "Study advanced topic 1",
+                "Study advanced topic 2",
+                "Study advanced topic 3",
+                "Study advanced topic 4"
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Career Launch",
+          "objective": "Land your first role in the field",
+          "duration_months": 2,
+          "prerequisites": [],
+          "milestones": [
+            "Complete branding",
+            "Secure job offer"
+          ],
+          "resources": [
+            "Job Search Platforms"
+          ],
+          "tasks": [
+            "Develop job search strategy",
+            "Practice interview questions"
+          ],
+          "children": [
+            {
+              "title": "Professional Branding",
+              "objective": "Create compelling professional presence",
+              "duration_months": 1,
+              "prerequisites": [],
+              "milestones": [
+                "Update resume",
+                "Optimize professional profile",
+                "Build portfolio"
+              ],
+              "resources": [
+                "LinkedIn",
+                "Resume Builder"
+              ],
+              "tasks": [
+                "Tailor resume for boiler operator",
+                "Highlight key skills: control steam flows, domestic cooling systems, ensure equipment maintenance"
+              ],
+              "children": []
+            },
+            {
+              "title": "Job Search Strategy",
+              "objective": "Execute systematic job search",
+              "duration_months": 1,
+              "prerequisites": [],
+              "milestones": [
+                "Apply to positions",
+                "Network",
+                "Interview prep"
+              ],
+              "resources": [
+                "Job Boards",
+                "Networking Events"
+              ],
+              "tasks": [
+                "Identify top companies for boiler operator",
+                "Prepare for interviews"
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path_title": "boiler operator",
+      "focus": "Transition",
+      "confidence_score": 0.8,
+      "steps": [
+        {
+          "title": "Foundations",
+          "objective": "Build essential groundwork for your career",
+          "duration_months": 1,
+          "prerequisites": [],
+          "milestones": [
+            "Complete foundation modules",
+            "Set up workspace"
+          ],
+          "resources": [
+            "Standard Industry Tools"
+          ],
+          "tasks": [
+            "Set up your learning workspace",
+            "Create a study schedule",
+            "Join relevant online communities"
+          ],
+          "children": [
+            {
+              "title": "Industry Fundamentals",
+              "objective": "Understand the core concepts of boiler operator",
+              "duration_months": 1,
+              "prerequisites": [],
+              "milestones": [
+                "Complete introductory course",
+                "Learn industry terminology",
+                "Understand role responsibilities"
+              ],
+              "resources": [
+                "Online Courses",
+                "Industry Glossaries",
+                "Career Guides"
+              ],
+              "tasks": [
+                "Study fundamental concept 1",
+                "Study fundamental concept 2",
+                "Study fundamental concept 3",
+                "Study fundamental concept 4",
+                "Study fundamental concept 5"
+              ],
+              "children": []
+            },
+            {
+              "title": "Tools & Environment",
+              "objective": "Set up your professional workspace",
+              "duration_months": 1,
+              "prerequisites": [],
+              "milestones": [
+                "Install necessary software",
+                "Configure development/work environment",
+                "Join professional communities"
+              ],
+              "resources": [
+                "Official Documentation",
+                "Community Forums"
+              ],
+              "tasks": [
+                "Research standard tools for boiler operator",
+                "Install primary software tools",
+                "Create account on professional networks"
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Core Skills Development",
+          "objective": "Master essential skills for boiler operator",
+          "duration_months": 4,
+          "prerequisites": [
+            "communication"
+          ],
+          "milestones": [
+            "Complete all core skill modules",
+            "Pass skill assessments"
+          ],
+          "resources": [
+            "Online Learning Platforms"
+          ],
+          "tasks": [
+            "Create a skills tracking spreadsheet",
+            "Set up practice projects",
+            "Find a mentor"
+          ],
+          "children": [
+            {
+              "title": "Control Steam Flows Proficiency",
+              "objective": "Develop proficiency in control steam flows",
+              "duration_months": 2,
+              "prerequisites": [
+                "communication"
+              ],
+              "milestones": [
+                "Complete control steam flows course",
+                "Demonstrate control steam flows usage",
+                "Pass control steam flows quiz"
+              ],
+              "resources": [
+                "Control Steam Flows Resources"
+              ],
+              "tasks": [
+                "Practice control steam flows fundamentals",
+                "Apply control steam flows in small scenarios"
+              ],
+              "children": []
+            },
+            {
+              "title": "Domestic Cooling Systems Proficiency",
+              "objective": "Develop proficiency in domestic cooling systems",
+              "duration_months": 2,
+              "prerequisites": [],
+              "milestones": [
+                "Complete domestic cooling systems course",
+                "Demonstrate domestic cooling systems usage",
+                "Pass domestic cooling systems quiz"
+              ],
+              "resources": [
+                "Domestic Cooling Systems Resources"
+              ],
+              "tasks": [
+                "Practice domestic cooling systems fundamentals",
+                "Apply domestic cooling systems in small scenarios"
+              ],
+              "children": []
+            },
+            {
+              "title": "Ensure Equipment Maintenance Proficiency",
+              "objective": "Develop proficiency in ensure equipment maintenance",
+              "duration_months": 2,
+              "prerequisites": [],
+              "milestones": [
+                "Complete ensure equipment maintenance course",
+                "Demonstrate ensure equipment maintenance usage",
+                "Pass ensure equipment maintenance quiz"
+              ],
+              "resources": [
+                "Ensure Equipment Maintenance Resources"
+              ],
+              "tasks": [
+                "Practice ensure equipment maintenance fundamentals",
+                "Apply ensure equipment maintenance in small scenarios"
+              ],
+              "children": []
+            },
+            {
+              "title": "Ensure Sanitation Proficiency",
+              "objective": "Develop proficiency in ensure sanitation",
+              "duration_months": 2,
+              "prerequisites": [],
+              "milestones": [
+                "Complete ensure sanitation course",
+                "Demonstrate ensure sanitation usage",
+                "Pass ensure sanitation quiz"
+              ],
+              "resources": [
+                "Ensure Sanitation Resources"
+              ],
+              "tasks": [
+                "Practice ensure sanitation fundamentals",
+                "Apply ensure sanitation in small scenarios"
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Practical Application",
+          "objective": "Gain hands-on experience through projects or simulations",
+          "duration_months": 2,
+          "prerequisites": [
+            "communication"
+          ],
+          "milestones": [
+            "Complete 2 major projects",
+            "Build portfolio"
+          ],
+          "resources": [
+            "Portfolio Platform"
+          ],
+          "tasks": [
+            "Research industry standard projects",
+            "Document process and outcomes"
+          ],
+          "children": [
+            {
+              "title": "Applied Practice Project",
+              "objective": "Apply core skills in a realistic scenario",
+              "duration_months": 2,
+              "prerequisites": [
+                "communication",
+                "control steam flows",
+                "domestic cooling systems"
+              ],
+              "milestones": [
+                "Design project scope",
+                "Implement core features",
+                "Document results"
+              ],
+              "resources": [
+                "Project Management Tools",
+                "Documentation Tools"
+              ],
+              "tasks": [
+                "Select a real-world problem to solve",
+                "Plan the solution",
+                "Implement basic feature 1",
+                "Implement basic feature 2",
+                "Implement basic feature 3",
+                "Implement basic feature 4"
+              ],
+              "children": []
+            },
+            {
+              "title": "Advanced Capstone",
+              "objective": "Demonstrate comprehensive mastery",
+              "duration_months": 2,
+              "prerequisites": [
+                "communication",
+                "control steam flows",
+                "domestic cooling systems",
+                "ensure equipment maintenance"
+              ],
+              "milestones": [
+                "Complete complex project",
+                "Peer review",
+                "Final presentation"
+              ],
+              "resources": [
+                "Advanced Tools"
+              ],
+              "tasks": [
+                "Define advanced project requirements",
+                "Implement advanced feature 1",
+                "Implement advanced feature 2",
+                "Implement advanced feature 3",
+                "Implement advanced feature 4",
+                "Implement advanced feature 5"
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Specialization",
+          "objective": "Develop expertise in specific areas",
+          "duration_months": 2,
+          "prerequisites": [],
+          "milestones": [
+            "Choose specialization",
+            "Achieve advanced competency"
+          ],
+          "resources": [
+            "Industry Certifications"
+          ],
+          "tasks": [
+            "Research trending specializations in boiler operator",
+            "Select a niche"
+          ],
+          "children": [
+            {
+              "title": "Specialization Track",
+              "objective": "Deep dive into a specific area",
+              "duration_months": 2,
+              "prerequisites": [
+                "communication",
+                "control steam flows",
+                "domestic cooling systems"
+              ],
+              "milestones": [
+                "Complete specialization course",
+                "Advanced certification",
+                "Master advanced concepts"
+              ],
+              "resources": [
+                "Specialized Training"
+              ],
+              "tasks": [
+                "Study advanced topic 1",
+                "Study advanced topic 2",
+                "Study advanced topic 3",
+                "Study advanced topic 4"
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Career Launch",
+          "objective": "Land your first role in the field",
+          "duration_months": 3,
+          "prerequisites": [],
+          "milestones": [
+            "Complete branding",
+            "Secure job offer"
+          ],
+          "resources": [
+            "Job Search Platforms"
+          ],
+          "tasks": [
+            "Develop job search strategy",
+            "Practice interview questions"
+          ],
+          "children": [
+            {
+              "title": "Professional Branding",
+              "objective": "Create compelling professional presence",
+              "duration_months": 1,
+              "prerequisites": [],
+              "milestones": [
+                "Update resume",
+                "Optimize professional profile",
+                "Build portfolio"
+              ],
+              "resources": [
+                "LinkedIn",
+                "Resume Builder"
+              ],
+              "tasks": [
+                "Tailor resume for boiler operator",
+                "Highlight key skills: control steam flows, domestic cooling systems, ensure equipment maintenance"
+              ],
+              "children": []
+            },
+            {
+              "title": "Job Search Strategy",
+              "objective": "Execute systematic job search",
+              "duration_months": 1,
+              "prerequisites": [],
+              "milestones": [
+                "Apply to positions",
+                "Network",
+                "Interview prep"
+              ],
+              "resources": [
+                "Job Boards",
+                "Networking Events"
+              ],
+              "tasks": [
+                "Identify top companies for boiler operator",
+                "Prepare for interviews"
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "images": [
+    "/static/roadmaps/roadmap_1.png",
+    "/static/roadmaps/roadmap_2.png",
+    "/static/roadmaps/roadmap_3.png"
+  ]
+}

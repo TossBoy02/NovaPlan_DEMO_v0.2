@@ -1,0 +1,1044 @@
+{
+  "input": {
+    "answers": [],
+    "summary": "quick-test"
+  },
+  "derived_skills": [],
+  "chosen_career": "technical director",
+  "roadmaps": [
+    {
+      "path_title": "technical director",
+      "focus": "Depth",
+      "confidence_score": 0.8,
+      "steps": [
+        {
+          "title": "Foundations",
+          "objective": "Build essential groundwork for your career",
+          "duration_months": 1,
+          "prerequisites": [],
+          "milestones": [
+            "Complete foundation modules",
+            "Set up workspace"
+          ],
+          "resources": [
+            "Standard Industry Tools"
+          ],
+          "tasks": [
+            "Set up your learning workspace",
+            "Create a study schedule",
+            "Join relevant online communities"
+          ],
+          "children": [
+            {
+              "title": "Industry Fundamentals",
+              "objective": "Understand the core concepts of technical director",
+              "duration_months": 1,
+              "prerequisites": [],
+              "milestones": [
+                "Complete introductory course",
+                "Learn industry terminology",
+                "Understand role responsibilities"
+              ],
+              "resources": [
+                "Online Courses",
+                "Industry Glossaries",
+                "Career Guides"
+              ],
+              "tasks": [
+                "Study fundamental concept 1",
+                "Study fundamental concept 2",
+                "Study fundamental concept 3",
+                "Study fundamental concept 4",
+                "Study fundamental concept 5"
+              ],
+              "children": []
+            },
+            {
+              "title": "Tools & Environment",
+              "objective": "Set up your professional workspace",
+              "duration_months": 1,
+              "prerequisites": [],
+              "milestones": [
+                "Install necessary software",
+                "Configure development/work environment",
+                "Join professional communities"
+              ],
+              "resources": [
+                "Official Documentation",
+                "Community Forums"
+              ],
+              "tasks": [
+                "Research standard tools for technical director",
+                "Install primary software tools",
+                "Create account on professional networks"
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Core Skills Development",
+          "objective": "Master essential skills for technical director",
+          "duration_months": 5,
+          "prerequisites": [],
+          "milestones": [
+            "Complete all core skill modules",
+            "Pass skill assessments"
+          ],
+          "resources": [
+            "Online Learning Platforms"
+          ],
+          "tasks": [
+            "Create a skills tracking spreadsheet",
+            "Set up practice projects",
+            "Find a mentor"
+          ],
+          "children": [
+            {
+              "title": "Adapt Designers\u2019 Work To The Performance Venue Proficiency",
+              "objective": "Develop proficiency in adapt designers\u2019 work to the performance venue",
+              "duration_months": 2,
+              "prerequisites": [],
+              "milestones": [
+                "Complete adapt designers\u2019 work to the performance venue course",
+                "Demonstrate adapt designers\u2019 work to the performance venue usage",
+                "Pass adapt designers\u2019 work to the performance venue quiz"
+              ],
+              "resources": [
+                "Adapt Designers\u2019 Work To The Performance Venue Resources"
+              ],
+              "tasks": [
+                "Practice adapt designers\u2019 work to the performance venue fundamentals",
+                "Apply adapt designers\u2019 work to the performance venue in small scenarios"
+              ],
+              "children": []
+            },
+            {
+              "title": "Adapt To Artists' Creative Demands Proficiency",
+              "objective": "Develop proficiency in adapt to artists' creative demands",
+              "duration_months": 2,
+              "prerequisites": [],
+              "milestones": [
+                "Complete adapt to artists' creative demands course",
+                "Demonstrate adapt to artists' creative demands usage",
+                "Pass adapt to artists' creative demands quiz"
+              ],
+              "resources": [
+                "Adapt To Artists' Creative Demands Resources"
+              ],
+              "tasks": [
+                "Practice adapt to artists' creative demands fundamentals",
+                "Apply adapt to artists' creative demands in small scenarios"
+              ],
+              "children": []
+            },
+            {
+              "title": "Coordinate Technical Teams In Artistic Productions Proficiency",
+              "objective": "Develop proficiency in coordinate technical teams in artistic productions",
+              "duration_months": 2,
+              "prerequisites": [],
+              "milestones": [
+                "Complete coordinate technical teams in artistic productions course",
+                "Demonstrate coordinate technical teams in artistic productions usage",
+                "Pass coordinate technical teams in artistic productions quiz"
+              ],
+              "resources": [
+                "Coordinate Technical Teams In Artistic Productions Resources"
+              ],
+              "tasks": [
+                "Practice coordinate technical teams in artistic productions fundamentals",
+                "Apply coordinate technical teams in artistic productions in small scenarios"
+              ],
+              "children": []
+            },
+            {
+              "title": "Coordinate With Creative Departments Proficiency",
+              "objective": "Develop proficiency in coordinate with creative departments",
+              "duration_months": 2,
+              "prerequisites": [],
+              "milestones": [
+                "Complete coordinate with creative departments course",
+                "Demonstrate coordinate with creative departments usage",
+                "Pass coordinate with creative departments quiz"
+              ],
+              "resources": [
+                "Coordinate With Creative Departments Resources"
+              ],
+              "tasks": [
+                "Practice coordinate with creative departments fundamentals",
+                "Apply coordinate with creative departments in small scenarios"
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Practical Application",
+          "objective": "Gain hands-on experience through projects or simulations",
+          "duration_months": 2,
+          "prerequisites": [],
+          "milestones": [
+            "Complete 2 major projects",
+            "Build portfolio"
+          ],
+          "resources": [
+            "Portfolio Platform"
+          ],
+          "tasks": [
+            "Research industry standard projects",
+            "Document process and outcomes"
+          ],
+          "children": [
+            {
+              "title": "Applied Practice Project",
+              "objective": "Apply core skills in a realistic scenario",
+              "duration_months": 2,
+              "prerequisites": [
+                "adapt designers\u2019 work to the performance venue",
+                "adapt to artists' creative demands"
+              ],
+              "milestones": [
+                "Design project scope",
+                "Implement core features",
+                "Document results"
+              ],
+              "resources": [
+                "Project Management Tools",
+                "Documentation Tools"
+              ],
+              "tasks": [
+                "Select a real-world problem to solve",
+                "Plan the solution",
+                "Implement basic feature 1",
+                "Implement basic feature 2",
+                "Implement basic feature 3",
+                "Implement basic feature 4"
+              ],
+              "children": []
+            },
+            {
+              "title": "Advanced Capstone",
+              "objective": "Demonstrate comprehensive mastery",
+              "duration_months": 2,
+              "prerequisites": [
+                "adapt designers\u2019 work to the performance venue",
+                "adapt to artists' creative demands",
+                "coordinate technical teams in artistic productions"
+              ],
+              "milestones": [
+                "Complete complex project",
+                "Peer review",
+                "Final presentation"
+              ],
+              "resources": [
+                "Advanced Tools"
+              ],
+              "tasks": [
+                "Define advanced project requirements",
+                "Implement advanced feature 1",
+                "Implement advanced feature 2",
+                "Implement advanced feature 3",
+                "Implement advanced feature 4",
+                "Implement advanced feature 5"
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Specialization",
+          "objective": "Develop expertise in specific areas",
+          "duration_months": 2,
+          "prerequisites": [],
+          "milestones": [
+            "Choose specialization",
+            "Achieve advanced competency"
+          ],
+          "resources": [
+            "Industry Certifications"
+          ],
+          "tasks": [
+            "Research trending specializations in technical director",
+            "Select a niche"
+          ],
+          "children": [
+            {
+              "title": "Specialization Track",
+              "objective": "Deep dive into a specific area",
+              "duration_months": 2,
+              "prerequisites": [
+                "adapt designers\u2019 work to the performance venue",
+                "adapt to artists' creative demands"
+              ],
+              "milestones": [
+                "Complete specialization course",
+                "Advanced certification",
+                "Master advanced concepts"
+              ],
+              "resources": [
+                "Specialized Training"
+              ],
+              "tasks": [
+                "Study advanced topic 1",
+                "Study advanced topic 2",
+                "Study advanced topic 3",
+                "Study advanced topic 4"
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Career Launch",
+          "objective": "Land your first role in the field",
+          "duration_months": 2,
+          "prerequisites": [],
+          "milestones": [
+            "Complete branding",
+            "Secure job offer"
+          ],
+          "resources": [
+            "Job Search Platforms"
+          ],
+          "tasks": [
+            "Develop job search strategy",
+            "Practice interview questions"
+          ],
+          "children": [
+            {
+              "title": "Professional Branding",
+              "objective": "Create compelling professional presence",
+              "duration_months": 1,
+              "prerequisites": [],
+              "milestones": [
+                "Update resume",
+                "Optimize professional profile",
+                "Build portfolio"
+              ],
+              "resources": [
+                "LinkedIn",
+                "Resume Builder"
+              ],
+              "tasks": [
+                "Tailor resume for technical director",
+                "Highlight key skills: adapt designers\u2019 work to the performance venue, adapt to artists' creative demands, coordinate technical teams in artistic productions"
+              ],
+              "children": []
+            },
+            {
+              "title": "Job Search Strategy",
+              "objective": "Execute systematic job search",
+              "duration_months": 1,
+              "prerequisites": [],
+              "milestones": [
+                "Apply to positions",
+                "Network",
+                "Interview prep"
+              ],
+              "resources": [
+                "Job Boards",
+                "Networking Events"
+              ],
+              "tasks": [
+                "Identify top companies for technical director",
+                "Prepare for interviews"
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path_title": "technical director",
+      "focus": "Fast-Entry",
+      "confidence_score": 0.8,
+      "steps": [
+        {
+          "title": "Foundations",
+          "objective": "Build essential groundwork for your career",
+          "duration_months": 1,
+          "prerequisites": [],
+          "milestones": [
+            "Complete foundation modules",
+            "Set up workspace"
+          ],
+          "resources": [
+            "Standard Industry Tools"
+          ],
+          "tasks": [
+            "Set up your learning workspace",
+            "Create a study schedule",
+            "Join relevant online communities"
+          ],
+          "children": [
+            {
+              "title": "Industry Fundamentals",
+              "objective": "Understand the core concepts of technical director",
+              "duration_months": 1,
+              "prerequisites": [],
+              "milestones": [
+                "Complete introductory course",
+                "Learn industry terminology",
+                "Understand role responsibilities"
+              ],
+              "resources": [
+                "Online Courses",
+                "Industry Glossaries",
+                "Career Guides"
+              ],
+              "tasks": [
+                "Study fundamental concept 1",
+                "Study fundamental concept 2",
+                "Study fundamental concept 3",
+                "Study fundamental concept 4",
+                "Study fundamental concept 5"
+              ],
+              "children": []
+            },
+            {
+              "title": "Tools & Environment",
+              "objective": "Set up your professional workspace",
+              "duration_months": 1,
+              "prerequisites": [],
+              "milestones": [
+                "Install necessary software",
+                "Configure development/work environment",
+                "Join professional communities"
+              ],
+              "resources": [
+                "Official Documentation",
+                "Community Forums"
+              ],
+              "tasks": [
+                "Research standard tools for technical director",
+                "Install primary software tools",
+                "Create account on professional networks"
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Core Skills Development",
+          "objective": "Master essential skills for technical director",
+          "duration_months": 4,
+          "prerequisites": [],
+          "milestones": [
+            "Complete all core skill modules",
+            "Pass skill assessments"
+          ],
+          "resources": [
+            "Online Learning Platforms"
+          ],
+          "tasks": [
+            "Create a skills tracking spreadsheet",
+            "Set up practice projects",
+            "Find a mentor"
+          ],
+          "children": [
+            {
+              "title": "Adapt Designers\u2019 Work To The Performance Venue Proficiency",
+              "objective": "Develop proficiency in adapt designers\u2019 work to the performance venue",
+              "duration_months": 2,
+              "prerequisites": [],
+              "milestones": [
+                "Complete adapt designers\u2019 work to the performance venue course",
+                "Demonstrate adapt designers\u2019 work to the performance venue usage",
+                "Pass adapt designers\u2019 work to the performance venue quiz"
+              ],
+              "resources": [
+                "Adapt Designers\u2019 Work To The Performance Venue Resources"
+              ],
+              "tasks": [
+                "Practice adapt designers\u2019 work to the performance venue fundamentals",
+                "Apply adapt designers\u2019 work to the performance venue in small scenarios"
+              ],
+              "children": []
+            },
+            {
+              "title": "Adapt To Artists' Creative Demands Proficiency",
+              "objective": "Develop proficiency in adapt to artists' creative demands",
+              "duration_months": 2,
+              "prerequisites": [],
+              "milestones": [
+                "Complete adapt to artists' creative demands course",
+                "Demonstrate adapt to artists' creative demands usage",
+                "Pass adapt to artists' creative demands quiz"
+              ],
+              "resources": [
+                "Adapt To Artists' Creative Demands Resources"
+              ],
+              "tasks": [
+                "Practice adapt to artists' creative demands fundamentals",
+                "Apply adapt to artists' creative demands in small scenarios"
+              ],
+              "children": []
+            },
+            {
+              "title": "Coordinate Technical Teams In Artistic Productions Proficiency",
+              "objective": "Develop proficiency in coordinate technical teams in artistic productions",
+              "duration_months": 2,
+              "prerequisites": [],
+              "milestones": [
+                "Complete coordinate technical teams in artistic productions course",
+                "Demonstrate coordinate technical teams in artistic productions usage",
+                "Pass coordinate technical teams in artistic productions quiz"
+              ],
+              "resources": [
+                "Coordinate Technical Teams In Artistic Productions Resources"
+              ],
+              "tasks": [
+                "Practice coordinate technical teams in artistic productions fundamentals",
+                "Apply coordinate technical teams in artistic productions in small scenarios"
+              ],
+              "children": []
+            },
+            {
+              "title": "Coordinate With Creative Departments Proficiency",
+              "objective": "Develop proficiency in coordinate with creative departments",
+              "duration_months": 2,
+              "prerequisites": [],
+              "milestones": [
+                "Complete coordinate with creative departments course",
+                "Demonstrate coordinate with creative departments usage",
+                "Pass coordinate with creative departments quiz"
+              ],
+              "resources": [
+                "Coordinate With Creative Departments Resources"
+              ],
+              "tasks": [
+                "Practice coordinate with creative departments fundamentals",
+                "Apply coordinate with creative departments in small scenarios"
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Practical Application",
+          "objective": "Gain hands-on experience through projects or simulations",
+          "duration_months": 3,
+          "prerequisites": [],
+          "milestones": [
+            "Complete 2 major projects",
+            "Build portfolio"
+          ],
+          "resources": [
+            "Portfolio Platform"
+          ],
+          "tasks": [
+            "Research industry standard projects",
+            "Document process and outcomes"
+          ],
+          "children": [
+            {
+              "title": "Applied Practice Project",
+              "objective": "Apply core skills in a realistic scenario",
+              "duration_months": 2,
+              "prerequisites": [
+                "adapt designers\u2019 work to the performance venue",
+                "adapt to artists' creative demands"
+              ],
+              "milestones": [
+                "Design project scope",
+                "Implement core features",
+                "Document results"
+              ],
+              "resources": [
+                "Project Management Tools",
+                "Documentation Tools"
+              ],
+              "tasks": [
+                "Select a real-world problem to solve",
+                "Plan the solution",
+                "Implement basic feature 1",
+                "Implement basic feature 2",
+                "Implement basic feature 3",
+                "Implement basic feature 4"
+              ],
+              "children": []
+            },
+            {
+              "title": "Advanced Capstone",
+              "objective": "Demonstrate comprehensive mastery",
+              "duration_months": 2,
+              "prerequisites": [
+                "adapt designers\u2019 work to the performance venue",
+                "adapt to artists' creative demands",
+                "coordinate technical teams in artistic productions"
+              ],
+              "milestones": [
+                "Complete complex project",
+                "Peer review",
+                "Final presentation"
+              ],
+              "resources": [
+                "Advanced Tools"
+              ],
+              "tasks": [
+                "Define advanced project requirements",
+                "Implement advanced feature 1",
+                "Implement advanced feature 2",
+                "Implement advanced feature 3",
+                "Implement advanced feature 4",
+                "Implement advanced feature 5"
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Specialization",
+          "objective": "Develop expertise in specific areas",
+          "duration_months": 2,
+          "prerequisites": [],
+          "milestones": [
+            "Choose specialization",
+            "Achieve advanced competency"
+          ],
+          "resources": [
+            "Industry Certifications"
+          ],
+          "tasks": [
+            "Research trending specializations in technical director",
+            "Select a niche"
+          ],
+          "children": [
+            {
+              "title": "Specialization Track",
+              "objective": "Deep dive into a specific area",
+              "duration_months": 2,
+              "prerequisites": [
+                "adapt designers\u2019 work to the performance venue",
+                "adapt to artists' creative demands"
+              ],
+              "milestones": [
+                "Complete specialization course",
+                "Advanced certification",
+                "Master advanced concepts"
+              ],
+              "resources": [
+                "Specialized Training"
+              ],
+              "tasks": [
+                "Study advanced topic 1",
+                "Study advanced topic 2",
+                "Study advanced topic 3",
+                "Study advanced topic 4"
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Career Launch",
+          "objective": "Land your first role in the field",
+          "duration_months": 2,
+          "prerequisites": [],
+          "milestones": [
+            "Complete branding",
+            "Secure job offer"
+          ],
+          "resources": [
+            "Job Search Platforms"
+          ],
+          "tasks": [
+            "Develop job search strategy",
+            "Practice interview questions"
+          ],
+          "children": [
+            {
+              "title": "Professional Branding",
+              "objective": "Create compelling professional presence",
+              "duration_months": 1,
+              "prerequisites": [],
+              "milestones": [
+                "Update resume",
+                "Optimize professional profile",
+                "Build portfolio"
+              ],
+              "resources": [
+                "LinkedIn",
+                "Resume Builder"
+              ],
+              "tasks": [
+                "Tailor resume for technical director",
+                "Highlight key skills: adapt designers\u2019 work to the performance venue, adapt to artists' creative demands, coordinate technical teams in artistic productions"
+              ],
+              "children": []
+            },
+            {
+              "title": "Job Search Strategy",
+              "objective": "Execute systematic job search",
+              "duration_months": 1,
+              "prerequisites": [],
+              "milestones": [
+                "Apply to positions",
+                "Network",
+                "Interview prep"
+              ],
+              "resources": [
+                "Job Boards",
+                "Networking Events"
+              ],
+              "tasks": [
+                "Identify top companies for technical director",
+                "Prepare for interviews"
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path_title": "technical director",
+      "focus": "Transition",
+      "confidence_score": 0.8,
+      "steps": [
+        {
+          "title": "Foundations",
+          "objective": "Build essential groundwork for your career",
+          "duration_months": 1,
+          "prerequisites": [],
+          "milestones": [
+            "Complete foundation modules",
+            "Set up workspace"
+          ],
+          "resources": [
+            "Standard Industry Tools"
+          ],
+          "tasks": [
+            "Set up your learning workspace",
+            "Create a study schedule",
+            "Join relevant online communities"
+          ],
+          "children": [
+            {
+              "title": "Industry Fundamentals",
+              "objective": "Understand the core concepts of technical director",
+              "duration_months": 1,
+              "prerequisites": [],
+              "milestones": [
+                "Complete introductory course",
+                "Learn industry terminology",
+                "Understand role responsibilities"
+              ],
+              "resources": [
+                "Online Courses",
+                "Industry Glossaries",
+                "Career Guides"
+              ],
+              "tasks": [
+                "Study fundamental concept 1",
+                "Study fundamental concept 2",
+                "Study fundamental concept 3",
+                "Study fundamental concept 4",
+                "Study fundamental concept 5"
+              ],
+              "children": []
+            },
+            {
+              "title": "Tools & Environment",
+              "objective": "Set up your professional workspace",
+              "duration_months": 1,
+              "prerequisites": [],
+              "milestones": [
+                "Install necessary software",
+                "Configure development/work environment",
+                "Join professional communities"
+              ],
+              "resources": [
+                "Official Documentation",
+                "Community Forums"
+              ],
+              "tasks": [
+                "Research standard tools for technical director",
+                "Install primary software tools",
+                "Create account on professional networks"
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Core Skills Development",
+          "objective": "Master essential skills for technical director",
+          "duration_months": 4,
+          "prerequisites": [],
+          "milestones": [
+            "Complete all core skill modules",
+            "Pass skill assessments"
+          ],
+          "resources": [
+            "Online Learning Platforms"
+          ],
+          "tasks": [
+            "Create a skills tracking spreadsheet",
+            "Set up practice projects",
+            "Find a mentor"
+          ],
+          "children": [
+            {
+              "title": "Adapt Designers\u2019 Work To The Performance Venue Proficiency",
+              "objective": "Develop proficiency in adapt designers\u2019 work to the performance venue",
+              "duration_months": 2,
+              "prerequisites": [],
+              "milestones": [
+                "Complete adapt designers\u2019 work to the performance venue course",
+                "Demonstrate adapt designers\u2019 work to the performance venue usage",
+                "Pass adapt designers\u2019 work to the performance venue quiz"
+              ],
+              "resources": [
+                "Adapt Designers\u2019 Work To The Performance Venue Resources"
+              ],
+              "tasks": [
+                "Practice adapt designers\u2019 work to the performance venue fundamentals",
+                "Apply adapt designers\u2019 work to the performance venue in small scenarios"
+              ],
+              "children": []
+            },
+            {
+              "title": "Adapt To Artists' Creative Demands Proficiency",
+              "objective": "Develop proficiency in adapt to artists' creative demands",
+              "duration_months": 2,
+              "prerequisites": [],
+              "milestones": [
+                "Complete adapt to artists' creative demands course",
+                "Demonstrate adapt to artists' creative demands usage",
+                "Pass adapt to artists' creative demands quiz"
+              ],
+              "resources": [
+                "Adapt To Artists' Creative Demands Resources"
+              ],
+              "tasks": [
+                "Practice adapt to artists' creative demands fundamentals",
+                "Apply adapt to artists' creative demands in small scenarios"
+              ],
+              "children": []
+            },
+            {
+              "title": "Coordinate Technical Teams In Artistic Productions Proficiency",
+              "objective": "Develop proficiency in coordinate technical teams in artistic productions",
+              "duration_months": 2,
+              "prerequisites": [],
+              "milestones": [
+                "Complete coordinate technical teams in artistic productions course",
+                "Demonstrate coordinate technical teams in artistic productions usage",
+                "Pass coordinate technical teams in artistic productions quiz"
+              ],
+              "resources": [
+                "Coordinate Technical Teams In Artistic Productions Resources"
+              ],
+              "tasks": [
+                "Practice coordinate technical teams in artistic productions fundamentals",
+                "Apply coordinate technical teams in artistic productions in small scenarios"
+              ],
+              "children": []
+            },
+            {
+              "title": "Coordinate With Creative Departments Proficiency",
+              "objective": "Develop proficiency in coordinate with creative departments",
+              "duration_months": 2,
+              "prerequisites": [],
+              "milestones": [
+                "Complete coordinate with creative departments course",
+                "Demonstrate coordinate with creative departments usage",
+                "Pass coordinate with creative departments quiz"
+              ],
+              "resources": [
+                "Coordinate With Creative Departments Resources"
+              ],
+              "tasks": [
+                "Practice coordinate with creative departments fundamentals",
+                "Apply coordinate with creative departments in small scenarios"
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Practical Application",
+          "objective": "Gain hands-on experience through projects or simulations",
+          "duration_months": 2,
+          "prerequisites": [],
+          "milestones": [
+            "Complete 2 major projects",
+            "Build portfolio"
+          ],
+          "resources": [
+            "Portfolio Platform"
+          ],
+          "tasks": [
+            "Research industry standard projects",
+            "Document process and outcomes"
+          ],
+          "children": [
+            {
+              "title": "Applied Practice Project",
+              "objective": "Apply core skills in a realistic scenario",
+              "duration_months": 2,
+              "prerequisites": [
+                "adapt designers\u2019 work to the performance venue",
+                "adapt to artists' creative demands"
+              ],
+              "milestones": [
+                "Design project scope",
+                "Implement core features",
+                "Document results"
+              ],
+              "resources": [
+                "Project Management Tools",
+                "Documentation Tools"
+              ],
+              "tasks": [
+                "Select a real-world problem to solve",
+                "Plan the solution",
+                "Implement basic feature 1",
+                "Implement basic feature 2",
+                "Implement basic feature 3",
+                "Implement basic feature 4"
+              ],
+              "children": []
+            },
+            {
+              "title": "Advanced Capstone",
+              "objective": "Demonstrate comprehensive mastery",
+              "duration_months": 2,
+              "prerequisites": [
+                "adapt designers\u2019 work to the performance venue",
+                "adapt to artists' creative demands",
+                "coordinate technical teams in artistic productions"
+              ],
+              "milestones": [
+                "Complete complex project",
+                "Peer review",
+                "Final presentation"
+              ],
+              "resources": [
+                "Advanced Tools"
+              ],
+              "tasks": [
+                "Define advanced project requirements",
+                "Implement advanced feature 1",
+                "Implement advanced feature 2",
+                "Implement advanced feature 3",
+                "Implement advanced feature 4",
+                "Implement advanced feature 5"
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Specialization",
+          "objective": "Develop expertise in specific areas",
+          "duration_months": 2,
+          "prerequisites": [],
+          "milestones": [
+            "Choose specialization",
+            "Achieve advanced competency"
+          ],
+          "resources": [
+            "Industry Certifications"
+          ],
+          "tasks": [
+            "Research trending specializations in technical director",
+            "Select a niche"
+          ],
+          "children": [
+            {
+              "title": "Specialization Track",
+              "objective": "Deep dive into a specific area",
+              "duration_months": 2,
+              "prerequisites": [
+                "adapt designers\u2019 work to the performance venue",
+                "adapt to artists' creative demands"
+              ],
+              "milestones": [
+                "Complete specialization course",
+                "Advanced certification",
+                "Master advanced concepts"
+              ],
+              "resources": [
+                "Specialized Training"
+              ],
+              "tasks": [
+                "Study advanced topic 1",
+                "Study advanced topic 2",
+                "Study advanced topic 3",
+                "Study advanced topic 4"
+              ],
+              "children": []
+            }
+          ]
+        },
+        {
+          "title": "Career Launch",
+          "objective": "Land your first role in the field",
+          "duration_months": 3,
+          "prerequisites": [],
+          "milestones": [
+            "Complete branding",
+            "Secure job offer"
+          ],
+          "resources": [
+            "Job Search Platforms"
+          ],
+          "tasks": [
+            "Develop job search strategy",
+            "Practice interview questions"
+          ],
+          "children": [
+            {
+              "title": "Professional Branding",
+              "objective": "Create compelling professional presence",
+              "duration_months": 1,
+              "prerequisites": [],
+              "milestones": [
+                "Update resume",
+                "Optimize professional profile",
+                "Build portfolio"
+              ],
+              "resources": [
+                "LinkedIn",
+                "Resume Builder"
+              ],
+              "tasks": [
+                "Tailor resume for technical director",
+                "Highlight key skills: adapt designers\u2019 work to the performance venue, adapt to artists' creative demands, coordinate technical teams in artistic productions"
+              ],
+              "children": []
+            },
+            {
+              "title": "Job Search Strategy",
+              "objective": "Execute systematic job search",
+              "duration_months": 1,
+              "prerequisites": [],
+              "milestones": [
+                "Apply to positions",
+                "Network",
+                "Interview prep"
+              ],
+              "resources": [
+                "Job Boards",
+                "Networking Events"
+              ],
+              "tasks": [
+                "Identify top companies for technical director",
+                "Prepare for interviews"
+              ],
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "images": [
+    "/static/roadmaps/roadmap_1.png",
+    "/static/roadmaps/roadmap_2.png",
+    "/static/roadmaps/roadmap_3.png"
+  ]
+}

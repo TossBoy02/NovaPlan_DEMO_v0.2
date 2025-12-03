@@ -1,0 +1,232 @@
+[
+	{
+		"id": 1,
+		"category": "Work Preferences",
+		"question": "What kind of tasks do you enjoy most?",
+		"options": [
+			{
+				"text": "Solving logical or technical problems",
+				"type": "A"
+			},
+			{
+				"text": "Helping or teaching others",
+				"type": "B"
+			},
+			{
+				"text": "Designing or creating things",
+				"type": "C"
+			},
+			{
+				"text": "Leading and organizing projects",
+				"type": "D"
+			}
+		]
+	},
+	{
+		"id": 2,
+		"category": "Work Preferences",
+		"question": "When working on projects, you prefer:",
+		"options": [
+			{
+				"text": "Working independently",
+				"type": "A"
+			},
+			{
+				"text": "Collaborating with others",
+				"type": "B"
+			},
+			{
+				"text": "Managing or leading a team",
+				"type": "D"
+			},
+			{
+				"text": "Supporting others with logistics or details",
+				"type": "D"
+			}
+		]
+	},
+	{
+		"id": 3,
+		"category": "Work Preferences",
+		"question": "Which setting sounds most enjoyable to you?",
+		"options": [
+			{
+				"text": "A high-energy office",
+				"type": "D"
+			},
+			{
+				"text": "A creative studio or lab",
+				"type": "C"
+			},
+			{
+				"text": "A quiet home or library",
+				"type": "A"
+			},
+			{
+				"text": "Outdoors, moving around",
+				"type": "B"
+			}
+		]
+	},
+	{
+		"id": 4,
+		"category": "Skills and Strengths",
+		"question": "Which statement describes you best?",
+		"options": [
+			{
+				"text": "I'm good at analyzing data and spotting patterns",
+				"type": "A"
+			},
+			{
+				"text": "I'm great at communicating and connecting with people",
+				"type": "B"
+			},
+			{
+				"text": "I'm skilled at designing visual or written content",
+				"type": "C"
+			},
+			{
+				"text": "I'm good at staying organized and meeting deadlines",
+				"type": "D"
+			}
+		]
+	},
+	{
+		"id": 5,
+		"category": "Skills and Strengths",
+		"question": "Which activity do you find most rewarding?",
+		"options": [
+			{
+				"text": "Completing a challenging technical task",
+				"type": "A"
+			},
+			{
+				"text": "Helping someone learn something new",
+				"type": "B"
+			},
+			{
+				"text": "Creating or performing something original",
+				"type": "C"
+			},
+			{
+				"text": "Planning and completing a complex project",
+				"type": "D"
+			}
+		]
+	},
+	{
+		"id": 6,
+		"category": "Work Environment and Values",
+		"question": "Do you prefer a job that:",
+		"options": [
+			{
+				"text": "Offers high financial growth",
+				"type": "A"
+			},
+			{
+				"text": "Improves other people's lives",
+				"type": "B"
+			},
+			{
+				"text": "Feels fun and imaginative",
+				"type": "C"
+			},
+			{
+				"text": "Is stable and predictable",
+				"type": "D"
+			}
+		]
+	},
+	{
+		"id": 7,
+		"category": "Work Environment and Values",
+		"question": "What kind of environment helps you do your best work?",
+		"options": [
+			{
+				"text": "Structured and quiet",
+				"type": "A"
+			},
+			{
+				"text": "Fast-paced and social",
+				"type": "B"
+			},
+			{
+				"text": "Flexible and creative",
+				"type": "C"
+			},
+			{
+				"text": "Practical and hands-on",
+				"type": "D"
+			}
+		]
+	},
+	{
+		"id": 8,
+		"category": "Personality and Problem Solving",
+		"question": "When faced with a tough decision, you usually:",
+		"options": [
+			{
+				"text": "Research facts before deciding",
+				"type": "A"
+			},
+			{
+				"text": "Talk it through with others",
+				"type": "B"
+			},
+			{
+				"text": "Trust your intuition",
+				"type": "C"
+			},
+			{
+				"text": "Look for the most efficient practical solution",
+				"type": "D"
+			}
+		]
+	},
+	{
+		"id": 9,
+		"category": "Personality and Problem Solving",
+		"question": "In a group project, others usually see you as:",
+		"options": [
+			{
+				"text": "The logical problem-solver",
+				"type": "A"
+			},
+			{
+				"text": "The supportive communicator",
+				"type": "B"
+			},
+			{
+				"text": "The creative idea person",
+				"type": "C"
+			},
+			{
+				"text": "The organizer or coordinator",
+				"type": "D"
+			}
+		]
+	},
+	{
+		"id": 10,
+		"category": "Motivation and Goals",
+		"question": "What matters most to you in a career?",
+		"options": [
+			{
+				"text": "Innovation and challenge",
+				"type": "A"
+			},
+			{
+				"text": "Meaningful social impact",
+				"type": "B"
+			},
+			{
+				"text": "Creative freedom",
+				"type": "C"
+			},
+			{
+				"text": "Security and clear progression",
+				"type": "D"
+			}
+		]
+	}
+]
